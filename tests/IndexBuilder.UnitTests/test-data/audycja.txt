@@ -1,0 +1,53 @@
+== audycja ({{język polski}}) ==
+{{wymowa}} {{IPA3|awˈdɨʦ̑ʲja}}, {{AS3|au̯d'''y'''cʹi ̯a}}, {{objaśnienie wymowy|ZM|UŁ}} {{audio|Pl-audycja.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) [[program]] [[radio]]wy; {{wikipedia|audycja radiowa}}
+: (1.2) [[rodzaj]] [[wewnętrzny|wewnętrznego]] [[popis]]u [[w]] [[szkoła|szkole]] [[muzyczny|muzycznej]]
+{{odmiana}}
+: (1.1-2) {{odmiana-rzeczownik-polski
+|Mianownik lp = audycja
+|Dopełniacz lp = audycji
+|Celownik lp = audycji
+|Biernik lp = audycję
+|Narzędnik lp = audycją
+|Miejscownik lp = audycji
+|Wołacz lp = audycjo
+|Mianownik lm = audycje
+|Dopełniacz lm = audycji / {{daw}} audycyj
+|Celownik lm = audycjom
+|Biernik lm = audycje
+|Narzędnik lm = audycjami
+|Miejscownik lm = audycjach
+|Wołacz lm = audycje
+}}
+{{przykłady}}
+: (1.1) ''[[czy|Czy]] [[słuchać|słuchałeś]] [[poranny|porannej]] [[audycja|audycji]]?''
+: (1.2) ''[[w|W]] [[poniedziałek]] [[w]] [[mały|małej]] [[sala|sali]] [[koncertowy|koncertowej]] [[mieć miejsce|miała miejsce]] [[audycja]] [[muzyczny|muzyczna]] [[pt.]] „[[muzyka|Muzyka]] [[barok]]owa”.''
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+: {{etym|łac|auditio}}<ref name='swopwn'>{{SWOonline|id=2254|hasło=audycja}}</ref>
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[broadcast]]; (1.2) [[audition]]
+* białoruski: (1.1) [[перадача]] {{ż}}, [[радыёперадача]] {{ż}}
+* duński: (1.1) [[udsendelse]] {{w}}
+* francuski: (1.1) [[émission]] {{ż}}
+* hiszpański: (1.1) [[programa]] {{m}}, [[emisión]] {{ż}}
+* japoński: (1.1) [[番組]]
+* kaszubski: (1.1) [[audicjô]] {{ż}}
+* niemiecki: (1.1) [[Sendung]] {{ż}}
+* nowogrecki: (1.1) [[εκπομπή]] {{ż}}
+* rosyjski: (1.1) [[передача]] {{ż}}, [[радиопередача]] {{ż}}
+* włoski: (1.1) [[trasmissione]]; (1.2) [[audizione]]
+{{źródła}}
+<references />

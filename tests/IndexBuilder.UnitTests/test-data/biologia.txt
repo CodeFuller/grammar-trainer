@@ -1,0 +1,432 @@
+{{podobne|biología|bioloogia|biológia}}
+== biologia ({{język polski}}) ==
+{{wymowa}} {{IPA3|bʲjɔˈlɔɟja}}, {{AS3|bʹi ̯ol'''o'''ǵi ̯a}}, {{objaśnienie wymowy|ZM|IJ}} {{audio|Pl-biologia.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} {{biol}} [[nauka]] [[przyrodniczy|przyrodnicza]] [[o]] [[życie|życiu]], [[rozwój|rozwoju]] [[i]] [[ewolucja|ewolucji]] [[osobniczy|osobniczej]]; {{wikipedia}}
+: (1.2) {{eduk}} [[przedmiot]] [[szkolny]] [[obejmować|obejmujący]] [[wiedza|wiedzę]] [[o]] [[przyroda|przyrodzie]]
+{{odmiana}}
+: (1.1-2) {{odmiana-rzeczownik-polski
+|Mianownik lp = biologia
+|Dopełniacz lp = biologii
+|Celownik lp = biologii
+|Biernik lp = biologię
+|Narzędnik lp = biologią
+|Miejscownik lp = biologii
+|Wołacz lp = biologio
+|Mianownik lm = {{potencjalnie|biologie}}
+|Dopełniacz lm = {{potencjalnie|biologii / {{przest}} biologij}}
+|Celownik lm = {{potencjalnie|biologiom}}
+|Biernik lm = {{potencjalnie|biologie}}
+|Narzędnik lm = {{potencjalnie|biologiami}}
+|Miejscownik lm = {{potencjalnie|biologiach}}
+|Wołacz lm = {{potencjalnie|biologie}}
+}}
+{{przykłady}}
+: (1.1) ''[[pisać|Pisałem]] [[matura|maturę]] [[z]] [[biologia|biologii]].''
+: (1.2) ''[[dziś|Dziś]] [[na]] [[biologia|biologii]] [[być|była]] [[klasówka]].''
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[mikrobiologia]]
+{{synonimy}}
+: (1.1) [[przyrodoznawstwo]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+: (1.1) [[anatomia]], [[biofizyka]], [[botanika]], [[cytologia]], [[ekologia]], [[embriologia]], [[ewolucjonizm]], [[filogenetyka]], [[fitobiologia]], [[fizjologia]], [[genetyka]], [[immunobiologia]], [[leśnictwo]], [[mikrobiologia]], [[morfologia]], [[paleontologia]], [[systematyka]], [[taksonomia]], [[zoologia]]
+{{pokrewne}}
+: {{rzecz}} [[biolog]] {{mos}}, [[biologiczność]] {{ż}}, [[biolożka]] {{ż}}
+: {{przym}} [[biologiczny]]
+: {{przysł}} [[biologicznie]]
+{{frazeologia}}
+{{etymologia}}
+: {{etym|gr|βίος|λόγος}}
+{{uwagi}}
+: (1.1) Liczba mnoga w tabeli odmiany została podana za ''Słownikiem gramatycznym języka polskiego''<ref>{{SGJPonline|id=9054|hasło=biologia}}</ref>. Inne słowniki (np.: ''Słownik języka polskiego'' pod red. W. Doroszewskiego<ref>{{DoroszewskiOnline}}</ref>, ''Uniwersalny słownik języka polskiego''<ref>{{USJPonline}}</ref>) odnotowują, że rzeczownik ten nie tworzy liczby mnogiej. Autorzy ''Wielkiego słownika języka polskiego'', podając formy w liczbie mnogiej, umieścili dopisek: „zwykle lp”.<ref> " {{WSJPonline|id=32840|hasło=biologia}}</ref>
+: (1.1) {{wikicytaty}}
+{{tłumaczenia}}
+* afrykanerski: (1.1) [[biologie]]
+* amharski: (1.1) [[ሥነ ሕይወት]]
+* angielski: (1.1) [[biology]]
+* arabski: (1.1) [[علم الأحياء]] {{m}} (ilm al-aḥíyā`), [[أحياء]] {{m}} (aḥíyā`)
+* aragoński: (1.1) [[biolochía]] {{ż}}
+* asamski: (1.1) [[জীৱ বিজ্ঞান]] (jīva bijñāna)
+* asturyjski: (1.1) [[bioloxía]] {{ż}}
+* azerski: (1.1) [[biologiya]]
+* baskijski: (1.1) [[biologia]]
+* bengalski: (1.1) [[জীববিজ্ঞান]] (jībabijñāna)
+* białoruski: (1.1) [[біялогія]] {{ż}}; (1.2) [[біялогія]] {{ż}}
+* białoruski (taraszkiewica): (1.1) [[біялёгія]] {{ż}}; (1.2) [[біялёгія]] {{ż}}
+* bułgarski: (1.1) [[биология]] {{ż}}
+* czeski: (1.1) [[biologie]] {{ż}}
+* duński: (1.1) [[biologi]] {{w}}
+* esperanto: (1.1) [[biologio]]
+* estoński: (1.1) [[bioloogia]]
+* farerski: (1.1) [[lívfrøði]] {{ż}}
+* fiński: (1.1) [[biologia]]
+* francuski: (1.1) [[biologie]] {{ż}}
+* hindi: (1.1) [[जीव विज्ञान]] {{ż}} (jīva vijñāna)
+* hiszpański: (1.1) [[biología]] {{ż}}
+* ido: (1.1) [[biologio]]
+* inuktitut: (1.1) [[ᐆᒪᔅᓱᓯᖃᕐᑐᓕᕆᓂᖅ]] (umasusirkartuliriniq)
+* islandzki: (1.1) [[líffræði]] {{ż}}
+* japoński: (1.1) {{furi|生物学|せいぶつがく}} (seibutsu gaku)
+* jidysz: (1.1) [[ביאָלאָגיע]] {{ż}} (bjologje)
+* kannada: (1.1) [[ಜೀವಶಾಸ್ತ್ರ]] (jīvaśāstra)
+* kaszubski: (1.1) [[biologiô]] {{ż}}; (1.2) [[biologiô]] {{ż}}
+* koreański: (1.1) [[생물학]] (saeng.mul.hak)
+* litewski: (1.1) [[biologija]] {{ż}}
+* malediwski: (1.1) [[ދިރުމާބެހޭ އިލްމު]]
+* niemiecki: (1.1) [[Biologie]] {{ż}}
+* nowogrecki: (1.1) [[βιολογία]] {{ż}}
+* orija: (1.1) [[ଜୀବ ବିଜ୍ଞାନ]] (jība bijñāna)
+* ormiański: (1.1) [[կենսաբանություն]] (kensabanut’yun)
+* perski: (1.1) [[زیست‌شناسی]] (zist-šenâsi)
+* polski język migowy: {{PJM-ukryj| (1.1) {{PJM|biologia}}}}
+* portugalski: (1.1) [[biologia]] {{ż}}
+* rosyjski: (1.1) [[биология]] {{ż}}; (1.2) [[биология]] {{ż}}
+* rumuński: (1.1) [[biologie]] {{ż}}
+* słowacki: (1.1) [[biológia]] {{ż}}
+* sycylijski: (1.1) [[bioluggìa]] {{ż}}
+* szwedzki: (1.1) [[biologi]] {{w}}
+* tajski: (1.1) [[ชีววิทยา]] (chee.wá.wít.tá.yaa)
+* tamilski: (1.1) [[உயிரியல்]] (uyiriyal)
+* turecki: (1.1) [[biyoloji]], [[dirimbilim]], [[canlı bilimi]]
+* tybetański: (1.1) [[སྐྱེ་དངོས་རིག་པ]] (skye dngos rig pa)
+* ukraiński: (1.1) [[біологія]] {{ż}}; (1.2) [[біологія]] {{ż}}
+* urdu: (1.1) [[حیاتیات]]
+* węgierski: (1.1) [[biológia]]; (1.2) [[biológia]]
+* wilamowski: (1.1) [[biologii]] {{ż}}; (1.2) [[biologii]] {{ż}}
+* włoski: (1.1) [[biologia]] {{ż}}
+{{źródła}}
+<references />
+
+== biologia ({{język baskijski}}) ==
+{{wymowa}}
+: {{audio|LL-Q8752 (eus)-Xabier Cañas-biologia.wav}} {{audio|LL-Q8752 (eus)-Eneko Arruabarrena Sanchez-biologia.wav}} {{audio|LL-Q8752 (eus)-Unaigarmendia7-biologia.wav}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[mikrobiologia]]
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[biologo]]
+: {{przym}} [[biologiko]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język fiński}}) ==
+{{wymowa}}
+: {{dzielenie|bi|o|lo|gi|a}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[mikrobiologia]]
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[biologi]]
+: {{przym}} [[biologinen]]
+{{frazeologia}}
+{{etymologia}}
+: {{etymn|fiń|bio-|-logia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{interlingua}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[microbiologia]]
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[biologista]], [[biologo]]
+: {{przym}} [[biologic]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język kataloński}}) ==
+{{wymowa}}
+: {{or}} {{IPA3|biuɫuˈʒiə}}
+: {{occ}} {{IPA3|bioɫoˈd͡ʒia}}
+: {{audio|LL-Q7026 (cat)-Unjoanqualsevol-biologia.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+: (1.1) {{lp}} biologia; {{lm}} biologies
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+: (1.1) [[anatomia]], [[botànica]], [[zoologia]]
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{przym}} [[biològic]]
+{{frazeologia}}
+{{etymologia}} {{etymn|katal|bio-|-logia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język ladyński}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język liguryjski}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język łaciński}}) ==
+{{wymowa}} {{IPA3|bioˈloɡia}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+: (1) biologia, biologiae {{odmiana-rzeczownik-łaciński-I|biologi}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[biologus]] {{m}}
+: {{przym}} [[biologicus]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{novial}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język portugalski}}) ==
+{{wymowa}}
+: {{audio|LL-Q5146 (por)-Nelson Ricardo 2500-biologia.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+: (1.1) biologia [[molecular]]/[[evolutivo|evolutiva]]/[[de]] [[sistema]]s/[[da]] [[conservação]]
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[biologista]] {{ż}} {{m}}, [[biólogo]] {{m}}
+: {{przym}} [[biológico]]
+: {{przysł}} [[biologicamente]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język prowansalski}}) ==
+{{wymowa}}
+: {{audio|LL-Q14185 (oci)-Davidgrosclaude-biologia.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język romansz}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język sardyński}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{slovio}}) ==
+{{ortografie}} биологиа
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== biologia ({{język włoski}}) ==
+{{wymowa}}
+: {{IPA|bio.lo.'ʤi.a}}
+: {{audio|LL-Q652 (ita)-XANA000-biologia.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{nauk}} [[biologia]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[biologa]] {{ż}}, [[biologicità]] {{ż}}, [[biologo]] {{m}}
+: {{przym}} [[biologico]]
+: {{przysł}} [[biologicamente]]
+{{frazeologia}}
+{{etymologia}}
+: {{etymn|wł|bio-|-logia}}
+{{uwagi}}
+{{źródła}}

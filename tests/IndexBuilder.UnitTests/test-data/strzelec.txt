@@ -1,0 +1,69 @@
+{{podobne|Strzelec}}
+== strzelec ({{język polski}}) ==
+[[Plik:Designated Marksman Rifle 2.jpg|thumb|strzelec (1.2)]]
+[[Plik:Vincent Hancock at 2008 Summer Olympics men's skeet finals 2008-08-16.JPG|thumb|strzelec (1.3)]]
+[[Plik:Zlatan Ibrahimović goal celebration Euro 2012 vs France.jpg|thumb|strzelec (1.4)]]
+{{wymowa}} {{IPA3|ˈsṭʃɛlɛʦ̑}}, {{AS3|sṭš'''e'''lec}}, {{objaśnienie wymowy|BDŹW|DZIĄS}} {{audio|Pl-strzelec.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskoosobowy''
+: (1.1) [[osoba]] [[umieć|umiejąca]] [[posługiwać się|się posługiwać]] [[broń palna|bronią palną]], [[łuk]]iem [[lub]] [[inny|inną]] [[broń|bronią]] [[miotać|miotającą]]
+: (1.2) {{wojsk}} [[żołnierz]] [[wyspecjalizować|wyspecjalizowany]] [[w]] [[strzelanie|strzelaniu]]
+: (1.3) {{sport}} [[zawodnik]] [[specjalizować się|specjalizujący się]] [[w]] [[strzelanie|strzelaniu]] [[z]] [[ręczny|ręcznej]] [[broń palna|broni palnej]]
+: (1.4) {{sport}} [[zawodnik]], [[który]] [[strzelać|strzelił]] [[bramka|bramkę]]
+: (1.5) {{wojsk}} {{hist}} [[stopień]] [[wojskowy]], [[odpowiednik]] [[szeregowy|szeregowego]] [[w]] [[Wojsko Polskie|Wojsku Polskim]] [[w]] [[okres]]ie [[międzywojenny]]m [[w]] [[pułk]]ach strzelców [[konny]]ch
+: (1.6) [[określenie]] [[członek|członka]] [[niektóry]]ch [[paramilitarny]]ch [[organizacja|organizacji]] [[społeczny]]ch
+: (1.7) {{daw}} [[myśliwy]]
+{{odmiana}}
+: (1.1-7) {{odmiana-rzeczownik-polski
+|Mianownik lp = strzelec
+|Dopełniacz lp = strzelca
+|Celownik lp = strzelcowi
+|Biernik lp = strzelca
+|Narzędnik lp = strzelcem
+|Miejscownik lp = strzelcu
+|Wołacz lp = strzelcu / strzelcze
+|Mianownik lm = strzelcy
+|Dopełniacz lm = strzelców
+|Celownik lm = strzelcom
+|Biernik lm = strzelców
+|Narzędnik lm = strzelcami
+|Miejscownik lm = strzelcach
+|Wołacz lm = strzelcy
+}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.1) [[myśliwy]]
+: (1.3-4) [[zawodnik]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[strzelectwo]] {{n}}, [[strzelnica]] {{ż}}, [[strzelanina]] {{ż}}, [[strzelba]] {{ż}}, [[strzał]] {{m}}, [[strzała]] {{ż}}, [[strzałka]] {{ż}}, [[strzałeczka]] {{ż}}, [[Strzelec]] {{m}}, [[Strzelce]] {{nmos}}, [[Strzelin]] {{m}}, [[Strzelno]] {{n}}, [[postrzał]] {{m}}, [[zastrzał]] {{m}}, [[odstrzał]] {{m}}, [[wystrzał]] {{m}}, [[strzałowy]] {{m}}, [[strzeliwo]] {{n}}, [[strzelanka]] {{ż}}, [[strzelinianin]] {{m}}, [[strzelinianka]] {{ż}}, [[powystrzelanie]] {{n}}, [[postrzeleniec]] {{m}}, [[dostrzelenie]] {{n}}, [[strzelanko]] {{n}}
+:: {{fż}} [[strzelczyni]] {{ż}}
+: {{czas}} [[strzelać]] {{ndk}}, [[strzelić]] {{dk}}, [[postrzelać]] {{ndk}}, [[postrzelić]] {{dk}}, [[odstrzelać]] {{ndk}}, [[odstrzelić]] {{dk}}, [[ostrzelać]] {{ndk}}, [[dostrzelić]] {{dk}}, [[ostrzeliwać]] {{ndk}}, [[wystrzelać]] {{ndk}}, [[wystrzelić]] {{dk}}, [[ustrzelić]] {{dk}}, [[wstrzelać]] {{ndk}}, [[wstrzeliwać]] {{ndk}}, [[wstrzelić]] {{dk}}, [[powystrzelać]] {{dk}}
+: {{przym}} [[strzelecki]], [[strzelisty]], [[strzelniczy]], [[wystrzałowy]], [[postrzałowy]], [[postrzelony]], [[strzałowy]], [[strzałkowy]], [[strzelnicowy]]
+: {{przysł}} [[strzeliście]], [[wystrzałowo]]
+: {{temsłow}} [[-strzelny]], [[-strzałowy]]
+{{frazeologia}}
+: [[król strzelców]] • [[strzelec wyborowy]] • [[wolny strzelec]] • [[suchy rybak mokry strzelec, będzie gówno na widelec]] • [[jak strzelec dupa, to nie pomogą lufy od Krupa]] • [[nie każdy strzelec, co gięty róg nosi]] • [[strzelec jak Kurp]]
+{{etymologia}}
+{{uwagi}}
+: {{wikipedia}}
+{{tłumaczenia}}
+* angielski: (1.1) [[shooter]], [[shot]]; (1.2) [[rifleman]], [[fusilier]], [[gunner]]; (1.3) [[shooter]]; (1.4) [[scorer]], ([[good]]) [[kick]]
+* czeski: (1.1) [[střelec]] {{m}}
+* duński: (1.1) [[skytte]] {{w}}; (1.4) [[målscorer]] {{w}}
+* francuski: (1.1) un [[tireur]], un [[chasseur]]
+* hiszpański: (1.1) [[tirador]] {{m}}; (1.2) [[tirador]] {{m}}, [[fusilero]] {{m}}, [[pistolero]] {{m}}; (1.3) [[tirador]] {{m}}; (1.4) [[goleador]] {{m}}
+* litewski: (1.6) [[šaulys]]
+* łaciński: (1.1) [[sagittarius]] {{m}}; (1.2) [[sagittarius]] {{m}}; (1.3) [[sagittarius]] {{m}}
+* niemiecki: (1.1) [[Schütze]] {{m}}; (1.2) [[Jäger]] {{m}}; (1.4) [[Troschütze]] {{m}}
+* rosyjski: (1.1) [[стрелок]] {{m}}; (1.2) [[стрелок]] {{m}}; (1.3) [[стрелок]]
+* szwedzki: (1.1) [[skytt]] {{w}}; (1.4) [[målskytt]] {{w}}
+* ukraiński: (1.1) [[стрілець]] {{m}}; (1.2) [[стрілець]] {{m}}; (1.3) [[стрілець]] {{m}}
+* włoski: (1.1) [[tiratore]] {{m}}; (1.2) [[bersagliere]] {{m}}; (1.4) [[bomber]] {{m}}, [[marcatore]] {{m}}
+{{źródła}}

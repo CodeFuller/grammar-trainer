@@ -1,0 +1,327 @@
+{{podobne|polska|Pólska|pólska}}
+== Polska ({{język polski}}) ==
+[[Plik:Un-poland.png|thumb|Polska (1.1)]]
+{{wymowa}}
+: {{IPA3|ˈpɔlska}}, {{AS3|p'''o'''lska}}, {{audio|Pl-Polska.ogg}}
+: {{dzielenie|Pol|ska}}<ref>{{Podracki2001|strony=928|hasło=Polska}}</ref><ref name="WSO" />
+: {{homofony|polska}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński, nazwa własna''
+: (1.1) {{geogr}} {{polit}} [[państwo]] [[w]] [[Europa Środkowa|Europie Środkowej]] [[ze]] [[stolica|stolicą]] [[w]] [[Warszawa|Warszawie]]; {{wikipedia}}
+: (1.2) {{kib}} [[reprezentacja]] [[polski|polska]]
+{{odmiana}}
+: (1.1-2) <ref>{{SGJPonline|id=5830|hasło=Polska}}</ref> {{odmiana-rzeczownik-polski
+|Mianownik lp = Polska
+|Dopełniacz lp = Polski
+|Celownik lp = Polsce
+|Biernik lp = Polskę
+|Narzędnik lp = Polską
+|Miejscownik lp = Polsce
+|Wołacz lp = Polsko
+|Mianownik lm = {{potencjalnie|Polski}}
+|Dopełniacz lm = {{potencjalnie|Polsk}}
+|Celownik lm = {{potencjalnie|Polskom}}
+|Biernik lm = {{potencjalnie|Polski}}
+|Narzędnik lm = {{potencjalnie|Polskami}}
+|Miejscownik lm = {{potencjalnie|Polskach}}
+|Wołacz lm = {{potencjalnie|Polski}}
+}}
+{{przykłady}}
+: (1.1) ''[[urodzić się|Urodziłem się]] [[w]] [[Polska|Polsce]].''
+: (1.1) ''[[zakładać|Zakładamy]], [[że]] [[budowa]] [[płot]]u [[przed]] [[dzik]]ami [[wzdłuż]] [[wschodni]]ej [[granica|granicy]] [[Polska|Polski]] [[powinien|powinna]] [[ruszyć]] [[we]] [[wrzesień|wrześniu]]''<ref>{{cytuj stronę| url = http://wiadomosci.dziennik.pl/wydarzenia/artykuly/571467,jurgiel-o-budowie-plotu-na-wschodniej-granicy-polski.html | tytuł = Budowa płotu na wschodniej granicy Polski ruszy za kilka miesięcy. Koszt to ok. 300 mln zł | data dostępu = 2018-05-26 | autor = Polska Agencja Prasowa | data = 2017-03-26 | opublikowany = wiadomosci.dziennik.pl | język = pl}}</ref>.
+: (1.1) ''[[oto|Oto]] [[w]] [[Polska|Polsce]] [[mieć|mamy]] [[dwa]] [[kraj]]e, [[de facto]] [[dwa|dwie]] [[Polska|Polski]] – [[wiejski|wiejską]] [[i]] [[miejski|miejską]]. [[te|Te]] [[dwa|dwie]] [[Polska|Polski]] [[oddzielać|oddziela]] [[od]] [[siebie]] [[znaczny]], [[wręcz]] [[dramatyczny]], [[dystans]]''<ref>{{Cytuj stronę | url = http://www.prezydent.pl/aleksandra-kwasniewskiego/aktualnosci/rok-2001/art,157,339,prezydent-rp-wzial-udzial-w-prezentacji-raportu-undp-o-rozwoju-spolecznym-polska-2000-rozwoj-obszarow-wiejskich.html | tytuł = Prezydent RP wziął udział w prezentacji raportu UNDP o rozwoju połecznym Polska 2000 – rozwój obszarów wiejskich | autor = Aleksander Kwaśniewski | data = 2001-04-23 | data dostępu = 2018-05-26 | opublikowano = prezydent.pl | język = pl}}</ref>.
+: (1.1) ''[[mieć|Mamy]] [[dwa|dwie]] [[Polska|Polski]] [[i]] [[dwa]] [[polski]]e [[naród|narody]]''<ref>{{cytuj stronę| url = http://wiadomosci.dziennik.pl/opinie/artykuly/541283,mamy-dwie-polski-i-dwa-polskie-narody-zrobmy-wiec-sobie-apartheid.html | tytuł = Mamy dwie Polski i dwa polskie narody. Zróbmy więc sobie apartheid | data dostępu = 2018-05-26 | nazwisko = Krajewski | imię = Andrzej | data = 2017-01-28 | opublikowany = wiadomosci.dziennik.pl | język = pl}}</ref>.
+: (1.2) ''[[oby|Oby]] [[tylko]] [[Polska|Polsce]] [[udać|udało się]] [[wyjść]] [[z]] [[grupa|grupy]][[!]]''
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[mieszkać]] [[w]] Polsce • [[jechać]] [[do]] Polski • [[obywatel]] / [[prezydent]] / [[premier]] / … Polski • [[marszałek Polski]] • [[Polska Ludowa]] • [[rozbiór]] Polski
+{{synonimy}}
+: (1.1) {{ofic}} [[Rzeczpospolita Polska]]; {{skr}} [[RP]]; {{hist}} [[PRL]], [[Polska Rzeczpospolita Ludowa]], [[Królestwo Polskie]], [[Korona]]; {{peryfr}} [[kraj nad Wisłą]], {{pogard}} [[Wolska]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+: (1.1) [[Europa]]
+{{meronimy}}
+: (1.1) [[Wielkopolska]], [[Małopolska]], [[Śląsk]], [[Mazowsze]], [[Podlasie]], [[Warmia]], [[Mazury]], [[Pomorze]], [[Kujawy]], [[Prusy]], [[Polesie]], [[Ruś Czerwona]], [[Suwalszczyzna]], [[Orawa]], [[Spisz]], [[Łużyce]]
+{{pokrewne}}
+: {{rzecz}} [[antypolskość]] {{ż}}, [[odpolszczenie]] {{n}}, [[Polak]] {{mos}}, [[polak]] {{mrz}}/{{mzw}}, [[Polaczek]] {{mos}}, [[polaczek]] {{mos}}, [[Polka]] {{ż}}, [[Polanin]] {{m}}, [[polski]] {{mrz}}, [[polskość]] {{ż}}, [[polszczenie]] {{n}}, [[polszczyzna]] {{ż}}, [[spolszczanie]] {{n}}, [[spolszczenie]] {{n}}, [[wypolszczanie]] {{n}}
+: {{czas}} [[odpolszczyć]] {{dk}}, [[polszczyć]] {{ndk}}, [[spolszczać]] {{ndk}}, [[spolszczyć]] {{dk}}, [[wypolszczać]] {{ndk}}
+: {{przym}} [[antypolski]], [[polski]], [[spolszczony]], [[polskawy]]
+{{frazeologia}}
+: [[a to Polska właśnie]]!<ref>Wojciech Chlebda: ''Stereotyp jako jedność języka, myślenia i działania'' w: ''Język a kultura'', t. 12, ''Stereotyp jako przedmiot lingwistyki. Teoria, metodologia, analizy empiryczne'' pod red. J. Anusiewicza, J. Bartmińskiego, Wrocław 1998, s. 38.</ref> • [[iść w Polskę]] • [[Młoda Polska]] • [[Polska A]] / [[Polska B]]<ref name="WSO">{{WSOonline|so=4490773|hasło=Polska}}</ref> ({{rzad}} {{także}} [[Polska C]]) • [[w lipcowym skwarze w Polsce jak na Saharze]] • [[zimowa stolica Polski]]
+{{etymologia}}
+* Pochodzenie nazwy ''Polska'' nie jest jednoznaczne. Historycznie nazwa ''Polska'' jest regularnym przymiotnikiem rodzaju żeńskiego utworzonym od rzeczownika ''[[pole]]''<ref name="etymologia1" /> – otwartej przestrzeni na danym terytorium. Składa się z dwóch części: nazwy ''„Pol”'' – ''„pole”'' oznaczającej otwartą przestrzeń lub uprawne pole oraz przyrostkowego formantu przymiotnikowego ''„-ska”''. Nazwa ''„Polska”'' to gramatycznie przymiotnik utworzony od rzeczownika ''„pole”'' za pomocą przyrostka ''„-sk”'', który jest formantem przymiotnikowym, kontynuantem z języka {{etym|prasł}} ''-ьskь-jь'' określającym przynależność do czegoś<ref>Stanisław Rospond: ''Gramatyka historyczna języka polskiego z ćwiczeniami'', Wydawnictwo Naukowe PWN, Warszawa 2009, s. 114, [[Specjalna:Książki/978-83-01-13992-6|ISBN 978-83-01-13992-6]].</ref>. Dodawany jako końcówka przymiotnikowa, w nazewnictwie {{etymn|pol}} oraz {{ogsłow}} jest to również formant produktywny dla nazw topograficznych i dzierżawczych; oboczności tego formantu np. ''„-sk”'', ''„-sko”'', ''„-ck”'', ''„-cko”'' oraz ''„-zk”'', ''„-zko”'' charakterystyczne są dla bardzo dawnych nazw miejscowych nadawanych miejscowościom na terenie Polski ({{por|Gdańsk|Bużesk|Łańsk|Płońsk|Płock|Wąchock|Rajsko|Bielsko|Kłodzko|Radomsko|Sławsko|Słupsk}} itp.). Do wieku XIX funkcjonowała także archaiczna odmiana ''„w Polszcze”'' zamiast ''„w Polsce”''<ref>{{cytuj | autor = Katarzyna Staniewska | tytuł = Jak powstała Polska | czasopismo = Wiedza i Życie nr 4 | strony = | wydanie = | miejsce = Warszawa | rok = 2000}}</ref>, będąca wynikiem lingwistycznego procesu językowego, który nastąpił w wyniku wymiany prasłowiańskiej grupy ''„-sk”'' na ''„-sc”''<ref>{{cytuj |nazwisko = Klemensiewicz | imię = Zenon | tytuł = Gramatyka historyczna języka polskiego | wydawca = Państwowe Wydawnictwo Naukowe | miejsce = Warszawa | rok = 1981 | strony = | isbn = 83-01-00995-0 }}</ref>.
+* Nazwę ''Polska'' odnotowano w wielu źródłach średniowiecznych spisanych po łacinie, w annałach, dziełach geograficznych, żywotach świętych oraz wielu kronikach z gatunku gesta opisujących historie poszczególnych europejskich państw, narodów i władców. W średniowiecznych źródłach spisanych po łacinie zachowało się wiele wzmianek zawierających nazwę kraju Polska w zlatynizowanych formach: ''Polania'', ''Palania'', ''Polenia'', ''Bulania'' i innych.
+* Istnieją dwie hipotezy na temat źródłosłowia nazwy ''„Polska”''. Według jednej z nich nazwa wywodzi się od ''„pola”'' - nazwy mającej w języku polskim zarówno znaczenie przestrzenne jak też rolnicze. Druga z nich za źródło upatruje nazwę słowiańskiego plemienia ''„Polan”'', którego nazwa również wywodzi się od wcześniej przytoczonej nazwy ''„pole”''. Według jednej z teorii nazwa ta wywodzi się od plemienia [[:w:Polanie|Polan]], zamieszkującego tereny obecnej [[:w:Wielkopolska|Wielkopolski]]. Słowo ''Polanie'' zaś przeważnie wywodzone jest od słowa ''pole'', w związku albo z rolnictwem jako głównym zajęciem plemienia, albo zamieszkiwaniem przez nich równinnych terenów (w odróżnieniu od innych plemion, np. [[:w:Wiślanie|Wiślan]] czy [[:w:Mazowszanie|Mazowszan]])<ref name="etymologia1">{{cytuj |tytuł=Jaka jest etymologia słowa Polska (nazwa kraju)?|opublikowany=Poradnia językowa PWN |autor=Krystyna Długosz-Kurczabowa |url=http://poradnia.pwn.pl/lista.php?id=2783 |data dostępu=6 grudnia 2008}}</ref>.
+* Niektórzy historycy (np. [[:w:Przemysław Urbańczyk|Przemysław Urbańczyk]] i [[:w:Zofia Hilczer-Kurnatowska|Zofia Hilczer-Kurnatowska]]) kwestionują samo istnienie Polan, którzy w źródłach piśmienniczych pojawiają się dopiero w XII wieku w spisanej przez [[:w:Nestor (kronikarz)|Nestora]] w roku 1113 kronice ''[[:w:Powieść minionych lat|Powieść minionych lat]]'' (''Повѣсть времяньныхъ лѣтъ'')<ref>Franciszek Sielicki: ''Kroniki staroruskie'', PWN, Warszawa 1987, [[Specjalna:Książki/83-06-01423-5​|ISBN 83-06-01423-5​]]</ref>. Niezależnie od istnienia Polan nazwę Polski wywodzi się od {{ogsłow}} wyrazu ''pole'' – oznaczającego pierwotnie równinę zdatną pod uprawę<ref>Tadeusz Lehr-Spławiński: ''Język polski.'' Warszawa 1978, s. 64.</ref> ({{por}} {{etymn|prasł|polje}} • {{etymn|czeski|pole}} • {{etymn|słowacki|pole}} • {{etym2n|ukr|поле|по́ле}} • {{etymn|białoruski|поле}} • {{etymn|rosyjski|поле}} • {{etymn|chorwacki|polje}} • {{etymn|serbski|поље}} • {{etymn|macedoński|поле}} • {{etymn|bułgarski|поле}} • {{etymn|dłuż|pólo}}), wywodzącego się od {{etym|praindoeuropejski}} członu {{*}}pelè- → [[pole]], [[płaski]] [[teren]]; {{wikipedia|etymologia nazwy Polska}}.
+{{uwagi}}
+* nie mylić z przymiotnikiem „[[polski]]” w zapisie wielką literą w nazwach własnych , np. ''Telewizja Polska'', ''Polska Agencja Prasowa'', ''Polskie Koleje Państwowe'', ''Polski Koncern Naftowy'' itp.
+* zobacz też: [[Indeks:Polski - Kraje Europy|indeks krajów Europy]] • [[Indeks:Polski - Kraje i narodowości|indeks państw świata]]
+{{tłumaczenia}}
+* abazyński: (1.1) [[Польша]] (Pol'ša)
+* abchaski: (1.1) [[Полша]], [[Полониа]], [[Польша]]
+* aceh: (1.1) [[Polandia]]
+* afrykanerski: (1.1) [[Pole]]
+* ajmara: (1.1) [[Puluña]]
+* akan: (1.1) [[Poland]]
+* albański: (1.1) [[Polonia]] {{ż}}
+* alemański: (1.1) [[Pole]] {{n}}
+* amharski: (1.1) [[ፖላንድ]] (poland)
+* angielski: (1.1) [[Poland]]
+* arabski: (1.1) [[بولندا]] {{ż}} (būlandā), [[بولونيا]] {{ż}} (būlūniyā), {{egiparab|[[بولاندا]]}}
+* aragoński: (1.1) [[Polonia]] {{ż}}
+* aramejski: (1.1) ''syryjski'' [[ܦܘܠܢܕܐ]] {{ż}} (pōlandā)
+* arumuński: (1.1) [[Polandia]] {{ż}}
+* asamski: (1.1) [[প’লেণ্ড]] (pa'land)
+* asturyjski: (1.1) [[Polonia]] {{ż}}
+* awarski: (1.1) [[Польша]] (Pol'ša)
+* azerski: (1.1) [[Polşa]] / [[Польша]] / ''dialekt południowy'' [[پولشا]]
+* bambara: (1.1) [[Pɔlɔnyi]], [[Poland]]
+* banjumasański: (1.1) [[Polandia]]
+* baskijski: (1.1) [[Polonia]]
+* baszkirski: (1.1) [[Польша]] (Polşa)
+* bawarski: (1.1) [[Poin]] {{n}}
+* bengalski: (1.1) [[পোল্যান্ড]] (polænḍ), [[পোল্যাণ্ড]] (polæṇḍ)
+* białoruski: (1.1) [[Польшча]] {{ż}} (Polšča)
+* bikolski: (1.1) [[Polonya]]
+* birmański: (1.1) [[ပိုလန်]] (polã)
+* bislama: (1.1) [[Poland]]
+* bisznuprija-manipuri: (1.1) [[পোল্যান্ড]]
+* bośniacki: (1.1) [[Poljska]] / Пољска / پۉڵسقا {{ż}}
+* bretoński: (1.1) [[Polonia]] {{ż}}
+* bułgarski: (1.1) [[Полша]] {{ż}}
+* buriacki: (1.1) [[Польшо]]
+* cebuano: (1.1) [[Polonya]], [[Poland]]
+* cerkiewnosłowiański: (1.1) [[Пол҄ьска]] {{ż}} (Polĭska)
+* chakaski: (1.1) [[Польша]] (Pol'ša)
+* chiński standardowy: (1.1) ''tradycyjny'' [[波蘭]] / ''uproszczony'' [[波兰]] (Bōlán)
+* chorwacki: (1.1) [[Poljska]] {{ż}}
+* czeczeński: (1.1) [[Польша]] (Polşa)
+* czejeński: (1.1) [[Poland]]
+* czeski: (1.1) [[Polsko]] {{n}}
+* czirokeski: (1.1) [[ᏉᎳᏂ]]
+* czuwaski: (1.1) [[Польша]] / [[Польшӑ]] (Pol'šă)
+* dari: (1.1) [[پولند]] (pōland)
+* dolnołużycki: (1.1) [[Pólska]] {{ż}}
+* dolnoniemiecki: (1.1) [[Polen]] {{n}}
+* dolnosaksoński: (1.1) [[Polen]] {{n}}
+* dolnosaksoński holenderski: (1.1) [[Pooln]] {{n}}
+* duński: (1.1) [[Polen]] {{n}}
+* dzongkha: (1.1) [[པོ་ལེནཌ།]]
+* esperanto: (1.1) [[Pollando]], [[Polujo]], [[Polio]]
+* estoński: (1.1) [[Poola]]
+* estremadurski: (1.1) [[Poloña]] {{ż}}
+* ewe: (1.1) [[Poland]]
+* farerski: (1.1) [[Pólland]] {{n}}
+* fidżyjski: (1.1) [[Poladi]]
+* filipino: (1.1) [[Poland]]
+* fiński: (1.1) [[Puola]]
+* francuski: (1.1) [[Pologne]] {{ż}}
+* franko-prowansalski: (1.1) [[Pologne]] {{ż}}
+* friulski: (1.1) [[Polonie]] {{ż}}
+* fryzyjski: (1.1) [[Poalen]] {{n}}
+* fryzyjski saterlandzki: (1.1) [[Polen]]
+* gagauski: (1.1) [[Polşa]] / [[Польша]]
+* galicyjski: (1.1) [[Polonia]] {{ż}}
+* gan: (1.1) [[波蘭]]
+* gocki: (1.1) [[𐍀𐍉𐌻𐌰𐌻𐌰𐌽𐌳]] {{n}} (Polaland)
+* górnołużycki: (1.1) [[Pólska]] {{ż}}
+* grenlandzki: (1.1) [[Poleni]]
+* gruziński: (1.1) [[პოლონეთი]] (poloneṭi)
+* guarani: (1.1) [[Poloña]]
+* gudźarati: (1.1) [[પોલેંડ]] (pōlēṇḍa), [[પોલેન્ડ]] (pōlēnḍa)
+* haitański: (1.1) [[Polòy]]
+* hakka: (1.1) [[Pô-làn]]
+* hausa: (1.1) [[Poland]]
+* hawajski: (1.1) [[Pōlani]]
+* hebrajski: (1.1) [[פולין]] {{ż}} (polin), [[פולניה]] {{ż}} (pōlanyah)
+* hiligaynon: (1.1) [[Polonya]]
+* hindi: (1.1) [[पोलैंड]] (polæṃḍ)
+* hindi fidżyjskie: (1.1) [[Poland]]
+* hiszpański: (1.1) [[Polonia]] {{ż}}
+* ido: (1.1) [[Polonia]]
+* igbo: (1.1) [[Poland]]
+* ilokano: (1.1) [[Polandia]]
+* indonezyjski: (1.1) [[Polandia]]
+* interlingua: (1.1) [[Polonia]]
+* inuktitut: (1.1) [[ᐳᓚᓐᑦ]] / [[pulant]], [[ᐴᓚᓐ]] / [[polan]]
+* irlandzki: (1.1) [[An Pholainn]] {{ż}}, [[Poblacht na Polainne]] {{ż}}
+* islandzki: (1.1) [[Pólland]] {{n}}
+* jakucki: (1.1) [[Польша]] (Pol'ša)
+* japoński: (1.1) [[ポーランド]] (pōrando)
+* jawajski: (1.1) [[Polandia]]
+* jèrriais: (1.1) [[Polongne]] {{ż}}
+* jidysz: (1.1) [[פּוילן]] {{n}} (pojln)
+* joruba: (1.1) [[Polandi]]
+* kabardyjski: (1.1) [[Полшэ]] (Polšă)
+* kabylski: (1.1) [[ⵒⵓⵍⵓⵏⵢⴰ]] / [[Pulunya]]
+* kałmucki: (1.1) [[Польшн Орн Нутг]], [[Польш]] (Pol'š)
+* kannada: (1.1) [[ಪೋಲೆಂಡ್]] (pōleṇḍ), [[ಪೊಲೆಂಡ್]] (poleṃḍ)
+* kantoński: (1.1) [[波蘭]] (bo1 laan4)
+* karaczajsko-bałkarski: (1.1) [[Польша]] (Pol'ša)
+* karakałpacki: (1.1) [[Polsha]] / [[Польша]]
+* karpatorusiński: (1.1) [[Польско]] {{n}} (Pol'sko), [[Полща]] {{ż}}
+* kaszmirski: (1.1) [[पोलैंड]]
+* kaszubski: (1.1) [[Pòlskô]] {{ż}}
+* kataloński: (1.1) [[Polònia]] {{ż}}
+* kazachski: (1.1) [[Польша]] / [[پولشا]] (Polşa)
+* keczua: (1.1) [[Pulunya]], [[Pulska]]
+* khmerski: (1.1) [[ប៉ូឡូញ]] (baulaunh), [[ប្រទេស​ប៉ូឡូញ]] (bratesa​ baulaunh)
+* kirgiski: (1.1) [[Польша]] (Polşa)
+* klingoński: (1.1) [[polonyuS]]
+* kongo: (1.1) [[Pologne]]
+* koreański: (1.1) {{korpłd|[[폴란드]]}} (pol-lan-deu), {{korpłn|[[뽈스까]]}} (ppol-seu-kka)
+* kornijski: (1.1) [[Poloni]] {{ż}}
+* korsykański: (1.1) [[Pulonia]] {{ż}}
+* krymskotatarski: (1.1) [[Lehistan]] / [[Лехистан]], [[Poloniya]] / [[Полония]]
+* kumycki: (1.1) [[Польша]] (Pol'ša)
+* kurmandżi: (1.1) [[Polonya]]
+* kwanyama: (1.1) [[Poloni]]
+* kweński: (1.1) [[Polen]]
+* ladino: (1.1) [[פולוניה]] / [[Polonia]] {{ż}}
+* ladyński: (1.1) [[Polonia]] {{ż}}
+* laotański: (1.1) [[ໂປແລັນ]] (pōlæn), [[ໂປໂລຍ]]
+* lazyjski: (1.1) [[პოლონია]] (P’olonia)
+* lezgiński: (1.1) [[Польша]] (Pol'ša)
+* liguryjski: (1.1) [[Polonia]] {{ż}}
+* limburski: (1.1) [[Pole]]
+* lingala: (1.1) [[Poloni]]
+* litewski: (1.1) [[Lenkija]] {{ż}}
+* liwski: (1.1) [[Pūoļmō]]
+* lombardzki: (1.1) [[Pulònia]] {{ż}}
+* luganda: (1.1) [[Bupoolo]]
+* luksemburski: (1.1) [[Polen]] {{n}}
+* łaciński: (1.1) [[Polonia]] {{ż}}
+* łatgalski: (1.1) [[Puoleja]] {{ż}}
+* łotewski: (1.1) [[Polija]] {{ż}}
+* macedoński: (1.1) [[Полска]] {{ż}} (Polska)
+* malajalam: (1.1) [[പോളണ്ട്]] (pēāḷaṇṭ)
+* malajski: (1.1) [[Poland]] (ڤولند)
+* malediwski: (1.1) [[ޕޮލެންޑު]], [[ޕޮލޭންޑް]]
+* malgaski: (1.1) [[Pôlôna]], [[Polonia]], [[Polonina]]
+* maltański: (1.1) [[Polonja]] {{ż}}
+* mandżurski: (1.1) [[ᡦᠣᠯᠠᠨ]] (polan)
+* manx: (1.1) [[Yn Pholynn]]
+* maoryski: (1.1) [[Pōrana]]
+* marathi: (1.1) [[पोलंड]] (pōlaṇḍa)
+* maryjski: (1.1) [[Польшо]] (Pol'šo), [[Польша]]
+* maya: (1.1) [[Polonia]]
+* meglenorumuński: (1.1) [[Полес]]
+* megrelski: (1.1) [[პოლონეთი]] (poloneṭi)
+* mindong: (1.1) [[Pŏ̤-làng]]
+* minnan: (1.1) [[Polska]]
+* mirandyjski: (1.1) [[Polónia]]
+* moksza: (1.1) [[Полень мастор]]
+* mongolski: (1.1) [[Польш]] (Pol'š)
+* nahuatl: (1.1) [[Polontlān]]
+* nauruański: (1.1) [[Poland]]
+* nawaho: (1.1) [[Póolish Dineʼé bikéyah]]
+* neapolitański: (1.1) [[Pulonnia]] {{ż}}
+* nepalski: (1.1) [[पोल्याण्ड]] (polæṇḍ)
+* niderlandzki: (1.1) [[Polen]] {{n}}
+* niemiecki: (1.1) [[Polen]] {{n}}
+* niemiecki palatynacki: (1.1) [[Pole]] {{n}}
+* niemiecki śląski: (1.1) [[Pula]]
+* normandzki: (1.1) [[Polongne]] {{ż}}
+* norweski (bokmål): (1.1) [[Polen]] {{n}}
+* norweski (nynorsk): (1.1) [[Polen]] {{n}}
+* novial: (1.1) [[Polonia]]
+* nowogrecki: (1.1) [[Πολωνία]] {{ż}} (Polonía)
+* nowopruski: (1.1) [[Pōli]] {{ż}}
+* orija: (1.1) [[ପୋଲାଣ୍ଡ]] (polāṇḍ)
+* ormiański: (1.1) [[Լեհաստան]] (Lehastan)
+* osetyjski: (1.1) [[Польшӕ]] (Pol'šä)
+* pampango: (1.1) [[Poland]]
+* papiamento: (1.1) [[Polonia]]
+* paszto: (1.1) [[پولنډ]] (pōlənḋ), [[پولېنډ]] (pōlenḋ), [[پولېند]] (pōlend)
+* pendżabski: (1.1) [[ਪੋਲੈਂਡ]] (polæṃḍ)
+* pensylwański: (1.1) [[Polen]] {{n}}
+* perski: (1.1) [[لهستان]] (lahestân)
+* piemoncki: (1.1) [[Polònia]] {{ż}}
+* pikardyjski: (1.1) [[Pologn]] {{ż}}
+* pitkern: (1.1) [[Poeland]]
+* plautdietsch: (1.1) [[Pole]] {{n}}
+* polski język migowy: {{PJM-ukryj|(1.1) {{PJM|Polska, polski, Polak, polonistyka}}}}
+* południowoałtajski: (1.1) [[Польша]] (Pol'ša)
+* pontyjski: (1.1) [[Πολωνία]] {{ż}} (Polonía)
+* portugalski: (1.1) [[Polónia]] {{ż}}, {{brazport|[[Polônia]]}} {{ż}}
+* północnofryzyjski: (1.1) [[Poolen]] {{n}}
+* północnolapoński: (1.1) [[Polska]], [[Polen]]
+* prowansalski: (1.1) [[Polonha]] {{ż}}
+* romansz: (1.1) [[Pologna]] {{ż}}
+* romski: (1.1) [[Polska]] {{ż}}
+* rosyjski: (1.1) [[Польша]] (Pól’sza)
+* rumuński: (1.1) [[Polonia]] {{ż}}
+* rundi: (1.1) [[Polande]]
+* rwanda: (1.1) [[Polande]]
+* rypuaryjski: (1.1) [[Poole]]
+* samoański: (1.1) [[Polagi]], [[Polani]]
+* sanskryt: (1.1) [[पोलैंड]]
+* sardyński: (1.1) [[Polònia]] {{ż}}, [[Polonia]] {{ż}}
+* sassarski: (1.1) [[Polònia]], [[Porònia]]
+* serbski: (1.1) [[Пољска]] {{ż}} (Poljska)
+* serbsko-chorwacki: (1.1) [[Poljska]] {{ż}}
+* shona: (1.1) [[Porendi]]
+* sindhi: (1.1) [[پولينڊ]]
+* slovio: (1.1) [[Polakia]] / [[Полакиа]], [[Polakzem]] / [[Полакзем]]
+* słowacki: (1.1) [[Poľsko]] {{n}}
+* słoweński: (1.1) [[Poljska]] {{ż}}
+* somalijski: (1.1) [[Boolaand]]
+* sorani: (1.1) [[پۆڵەندا]] (Poḻenda), [[پۆلۆنیا]] (Polonya), [[پۆلۆنستان]] (Polonistan)
+* sotho: (1.1) [[Poland]]
+* sranan tongo: (1.1) [[Polikondre]]
+* staro-cerkiewno-słowiański: (1.1) [[Лѧхꙑ]] {{m}} {{lm}}
+* suahili: (1.1) [[Poland]]
+* sundajski: (1.1) [[Polandia]]
+* sycylijski: (1.1) [[Pulonia]] {{ż}}
+* syngaleski: (1.1) [[පෝලන්‍තය]] (pōlantaya)
+* szkocki: (1.1) [[Poland]]
+* szkocki gaelicki: (1.1) [[a' Phòlainn]] {{ż}}, [[A' Phòlainn]] {{ż}}, [[A' Phólainn]] {{ż}}, [[Póland]]
+* szwedzki: (1.1) [[Polen]]
+* średnioangielski: (1.1) [[Polande]]
+* tadżycki: (1.1) [[Лаҳистон]] (لهستان / Lahiston), [[Полша]] (پالشه / Polşa)
+* tagalski: (1.1) [[Polonya]]
+* tahitański: (1.1) [[Polonia]]
+* tajski: (1.1) [[ประเทศโปแลนด์]] (pratheṣ̄ polæn(d̒)), [[โปแลนด์]] (polæn(d̒))
+* tamilski: (1.1) [[போலந்து]] (pōlantu)
+* tatarski: (1.1) [[Polşa]] / [[Польша]] / [[پولشا]]
+* telugu: (1.1) [[పోలాండ్]] (pōlāṇḍ), [[పోలండ్]] (pōlaṃḍ)
+* tetum: (1.1) [[Polónia]]
+* tigrinia: (1.1) [[ፖላንድ]]
+* toki pona: (1.1) [[ma Posuka]]
+* tok pisin: (1.1) [[Polan]]
+* tonga: (1.1) [[Pōlani]]
+* turecki: (1.1) [[Polonya]] / [[Lehistan]]
+* turkmeński: (1.1) [[Polşa]] / [[Польша]]
+* tuvalu: (1.1) [[Polani]]
+* tuwiński: (1.1) [[Польша]] (Pol'ša)
+* tybetański: (1.1) [[པོ་ལན]] (po.lan), [[ཕོ་ལན།]] (pʰo.lan), [[པོ་ལན།]]
+* udmurcki: (1.1) [[Польша]] (Pol'ša)
+* ujgurski: (1.1) [[پولشا]] / [[Polsha]] / [[Польша]]
+* ukraiński: (1.1) [[Польща]] {{ż}} (Pol'šča)
+* urdu: (1.1) [[پولینڈ]] (pōlænḋ)
+* uzbecki: (1.1) [[Polsha]] ([[Польша]] / [[پالشە]])
+* volapük: (1.1) [[Polän]]
+* võro: (1.1) [[Poola]]
+* walijski: (1.1) [[Gwlad Pŵyl]] {{ż}}
+* waloński: (1.1) [[Pologne]] {{ż}}
+* warajski: (1.1) [[Polonya]]
+* wenecki: (1.1) [[Połonia]] {{ż}}
+* wepski: (1.1) [[Pol’šanma]], [[Pol’š]]
+* węgierski: (1.1) [[Lengyelország]]
+* wietnamski: (1.1) [[Ba Lan]]
+* wilamowski: (1.1) [[Pȫłn]] {{n}}
+* włoski: (1.1) [[Polonia]] {{ż}}
+* wolof: (1.1) [[Poloñ]]
+* wu: (1.1) [[兰波]]
+* wysokoislandzki: (1.1) [[Læsialand]] {{n}}
+* xhosa: (1.1) [[Pholend]]
+* zachodnioflamandzki: (1.1) [[Pooln]] {{n}}
+* zachodniopendżabski: (1.1) [[پولینڈ]] (pōlænḋ)
+* zazaki: (1.1) [[Polonya]]
+* zelandzki: (1.1) [[Poôl'n]] {{n}}
+* zulu: (1.1) [[iPolandi]], [[iPholandi]]
+* żmudzki: (1.1) [[Lėnkėjė]] {{ż}}
+{{źródła}}
+<references />

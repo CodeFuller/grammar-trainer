@@ -1,0 +1,203 @@
+== kobieta ({{język polski}}) ==
+[[Plik:Woman redhead natural portrait.jpg|thumb|kobieta (1.1)]]
+{{wymowa}}
+: {{audio|Pl-kobieta.ogg}}, {{IPA3|kɔˈbʲjɛta}}, {{AS3|kobʹi ̯'''e'''ta}}, {{objaśnienie wymowy|ZM|IJ}}
+: {{audio|LL-Q809 (pol)-Gower-kobieta.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) [[dorosły]] [[człowiek]] [[płeć|płci]] [[żeński]]ej; {{wikipedia}}
+: (1.2) {{daw}} {{obraź}} [[osoba]] [[płeć|płci]] [[żeński]]ej<ref name="Kurkowska">Halina Kurkowska, ''O zmianach znaczeń wyrazów'', „Poradnik Językowy” z. 3, 1949, s. 14.</ref><ref name="Łoś">Jan Łoś, ''Nazwy stopni pokrewieństwa i powinowactwa w dawnej Polsce'', „Język Polski” nr 1/1914, s. 3.</ref>
+: (1.3) {{pot}} [[żona]]<ref name="Łoś"/> [[lub]] [[dziewczyna]]
+{{odmiana}}
+: (1.1-3) {{odmiana-rzeczownik-polski
+|Mianownik lp = kobieta
+|Dopełniacz lp = kobiety
+|Celownik lp = kobiecie
+|Biernik lp = kobietę
+|Narzędnik lp = kobietą
+|Miejscownik lp = kobiecie
+|Wołacz lp = kobieto
+|Mianownik lm = kobiety
+|Dopełniacz lm = kobiet
+|Celownik lm = kobietom
+|Biernik lm = kobiety
+|Narzędnik lm = kobietami
+|Miejscownik lm = kobietach
+|Wołacz lm = kobiety
+}}
+{{przykłady}}
+: (1.1) ''[[seksizm|Seksizm]] [[życzliwy]] [[dotyczyć|dotyczy]] [[właśnie]] [[przekonanie|przekonań]] [[o]] [[to|tym]], [[że]] [[kobieta|kobiety]] [[być|są]] [[wyjątkowy|wyjątkowe]], [[wymagać|wymagają]] [[opieka|opieki]] [[i]] [[ochrona|ochrony]], [[być|są]] [[uzupełnienie]]m [[mężczyzna|mężczyzny]], [[który]] [[bez]] [[życiowy|życiowej]] [[partnerka|partnerki]] [[nie]] [[być|będzie]] [[szczęśliwy]]''<ref>Anna Stefaniak, Michał Bilewicz, Mikołaj Winiewski, ''Uprzedzenia w Polsce'', s. 210.</ref>.
+: (1.3) ''[[budzić się|Budzę się]] [[rano]] [[z]] [[mój|moją]] [[kobieta|kobietą]] [[u]] [[bok]]u – [[wspaniale]]. [[co|Czego]] [[chcieć]] [[więcej]] [[od]] [[życie|życia]]…''<ref>Dawid Piątkowski, ''Ego vs Ja'', 2016.</ref>
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[być]] / [[stawać się]] kobietą • [[czasopismo]] [[dla]] kobiet • [[prawa kobiet]]
+: (1.3) [[moja]]<ref name="Łoś"/> / [[twój|twoja]] / [[jego]] kobieta
+{{synonimy}}
+: (1.1) [[pani]]; {{przest}} [[niewiasta]], [[białogłowa]]; {{żart}} [[babka]], [[baba]]; {{pogard}} [[babsko]]; {{śląsk|[[żyńsko]]}}; {{symbol}} [[♀]]; {{skr}} [[K]]
+: (1.3) [[żona]]<ref name="Łoś"/>, {{pot}} [[baba]]<ref name="Łoś"/>, [[moja]]<ref name="Łoś"/>
+{{antonimy}}
+: (1.1) [[mężczyzna]]
+: (1.3) [[chłop]]<ref name="Łoś"/>, [[facet]]
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[kobiecość]] {{ż}}, [[kobieciarstwo]] {{n}}, [[kobieciarz]] {{mos}}
+:: {{zdrobn}} [[kobietka]] {{ż}}, [[kobieciątko]] {{n}}, [[kobiecina]] {{ż}}, [[kobiecinka]] {{ż}}
+:: {{zgrub}} [[kobiecisko]] {{n}}, [[kobieton]] {{mzw}}
+: {{przym}} [[kobiecy]]
+: {{przysł}} [[kobieco]], [[po kobiecemu]]
+{{frazeologia}}
+: [[kobieta zmienną jest]] • [[kobieta fatalna]] • [[kobieta lekkich obyczajów]] • [[kobieta wyzwolona]] • [[kobieta sukcesu]] • [[kobieta czyjegoś życia]] • [[kobieta z przeszłością]] • [[kobieta upadła]] • [[kobieta w kwiecie wieku]] • [[kobieta w wieku balzakowskim]] • [[wino, kobiety i śpiew]] • [[w kobiecym sercu społem mieszka diabeł z aniołem]] • [[z kobietami wielka bieda, lecz bez kobiet żyć się nie da]]; zobacz też: [[Aneks:Przysłowia polskie - ludzie#kobieta|przysłowia o kobiecie]]
+{{etymologia}}
+: (1.1) od (1.2)<ref name="Kurkowska"/>
+: (1.2) {{etymn|starop|kob}} → [[chlew]] (jedna z możliwości; obrządzanie świń należało do obowiązków kobiecych) lub {{etymn|starop|koba}} → [[kobyła]], albo jeszcze inne. Dziwna końcówka „[[-ieta]]” zgadza się z końcówkami ówczesnych (XVI w.) imion „[[Bieta]]”, „[[Elżbieta]]”, „[[Greta]]”, „[[Markieta]]”. Słowo „kobieta” weszło w użycie dopiero w XIX wieku, wypierając określenie „[[niewiasta]]”. Wcześniej było mianem obelżywym, uwłaczającym; w okresie między 1550-1700 obecnym prawie wyłącznie w tzw. [[w:literatura sowizdrzalska|literaturze sowizdrzalskiej]], fraszkach.<ref>{{Bruckner1927}}</ref>
+: (1.1) ''źródłosłów dla'' {{źródło dla|białor|кабета}}
+{{uwagi}}
+: {{wikicytaty}}
+{{tłumaczenia}}
+: (1.3) {{zobtłum|żona}}
+* abenaki: (1.1) [[phanem]]
+* adygejski: (1.1) [[бзылъфыгъэ]]
+* ajnoski: (1.1) [[メノコ]] (menoko)
+* alabama: (1.1) [[tayyi]]
+* ama: (1.1) [[noni]]
+* amharski: (1.1) [[ሴት]] {{ż}} (setə)
+* angielski: (1.1) [[woman]]
+* arabski: (1.1) [[مرأة]] {{ż}} (már’a), [[امرأة]] {{ż}} (imraʾa), {{algierarab|[[مرا]]}} {{ż}} (mra), {{egiparab|[[ست]]}} {{ż}} (sitt)
+* arapaho: (1.1) [[hisei]]
+* arumuński: (1.1) [[muljare]] {{ż}}
+* awestyjski: (1.1) [[𐬘𐬀𐬌𐬥𐬌]]
+* azerski: (1.1) [[qadın]], [[arvadlar]]
+* baskijski: (1.1) [[emakume]]
+* bengalski: (1.1) [[মহিলা]] (mahilā), [[মেয়েমানুষ]] (mēẏēmānuṣa)
+* białoruski: (1.1) [[жанчына]] {{ż}}
+* birmański: (1.1) [[မိန်းမ]] (mein:.ma.)
+* boloński: (1.1) [[dòna]] {{ż}}
+* bośniacki: (1.1) [[žena]] {{ż}}
+* bretoński: (1.1) [[maouez]] {{ż}}
+* bułgarski: (1.1) [[жена]] {{ż}}
+* buruszaski: (1.1) [[gus]]
+* cerkiewnosłowiański: (1.1) [[жена]] {{ż}}
+* chiński standardowy: (1.1) [[妇女]] (fùnǚ), [[女]] (nǚ), [[女人]] (nǚrén); (1.3) [[女人]] (nǚrén)
+* chorwacki: (1.1) [[žena]] {{ż}}
+* czeczeński: (1.1) [[зуда]]
+* czeski: (1.1) [[žena]] {{ż}}
+* dolnołużycki: (1.1) [[žeńska]] {{ż}}
+* duński: (1.1) [[kvinde]] {{w}}
+* elfdalski: (1.1) [[kwinnfuok]] {{n}}
+* esperanto: (1.1) [[virino]], [[homino]]
+* estoński: (1.1) [[naine]]
+* ewe: (1.1) [[nyɔnu]]
+* farerski: (1.1) [[kvinna]] {{ż}}
+* fiński: (1.1) [[nainen]]
+* francuski: (1.1) [[femme]] {{ż}}
+* franko-prowansalski: (1.1) [[fèna]]
+* gocki: (1.1) [[𐌵𐌹𐌽𐍉]] {{ż}} (qino)
+* górnołużycki: (1.1) [[žona]] {{ż}}
+* gruziński: (1.1) [[ქალი]] (kali)
+* guarani: (1.1) [[kuña]]
+* gudźarati: (1.1) [[સ્ત્રી]] {{ż}} (strī), [[બાયડી]] {{ż}} (bāyaḍī)
+* hawajski: (1.1) [[wahine]]
+* hebrajski: (1.1) [[אשה]] {{ż}}
+* hindi: (1.1) [[स्त्री]] {{ż}} (strī), [[औरत]] {{ż}} (aurata), [[नारी]] {{ż}} (nārī)
+* hiri motu: (1.1) [[hahine]]
+* hiszpański: (1.1) [[mujer]] {{ż}}
+* indonezyjski: (1.1) [[perempuan]], [[wanita]]
+* interlingua: (1.1) [[femina]]
+* inuktitut: (1.1) [[ᐊᕐᓇᖅ]] (arnaq)
+* irlandzki: (1.1) [[bean]]
+* islandzki: (1.1) [[kona]] {{ż}}, [[kvennamaður]] {{m}}
+* jaćwieski: (1.1) [[wirba]] {{ż}}
+* jagnobijski: (1.1) [[инч]]
+* japoński: (1.1) [[女]] ([[おんな]], onna), [[女性]] ([[じょせい]], josei)
+* jidysz: (1.1) [[פֿרוי]] {{ż}} (froj)
+* joruba: (1.1) [[obìnrin]]
+* kabylski: (1.1) [[tameṭṭut]] {{ż}}
+* kakczikel: (1.1) [[xten]]
+* karaimski: (1.1) [[тиши]]
+* karelski: (1.1) [[naine]]
+* kaszubski: (1.1) [[białka]] {{ż}}
+* kataloński: (1.1) [[dona]] {{ż}}
+* kazachski: (1.1) [[қатын]], [[әйел]]
+* keczua: (1.1) [[warmi]]
+* khmerski: (1.1) [[ឃរណី]]
+* kirgiski: (1.1) [[аял]]
+* kiribati: (1.1) [[aine]]
+* klingoński: (1.1) [[be']]
+* komi: (1.1) [[ань]]
+* koreański: (1.1) [[여자]] (yŏja), [[여성]] (yŏsŏng)
+* kreolski gujański: (1.1) [[fanm]]
+* krymskotatarski: (1.1) [[apaqay]], [[bike]]
+* ladino: (1.1) [[מוזיר]] {{ż}}
+* laotański: (1.1) [[ຍິງ]]
+* lavukaleve: (1.1) [[aira]] {{ż}}
+* limburski: (1.1) [[vrówmès]]
+* litewski: (1.1) [[moteris]] {{ż}}
+* louchébem: (1.1) [[lamfé]]
+* luganda: (1.1) [[omukazi]]
+* łaciński: (1.1) [[femina]] {{ż}}, [[mulier]] {{ż}}
+* łatgalski: (1.1) [[sīvīte]] {{ż}}
+* łotewski: (1.1) [[sieviete]] {{ż}}
+* malajalam: (1.1) [[സ്ത്രീ]] {{ż}} (strī)
+* maltański: (1.1) [[mara]] {{ż}}
+* marathi: (1.1) [[स्त्री]] {{ż}} (strī), [[अबला]] {{ż}} (abalā)
+* nahuatl klasyczny: (1.1) [[cihuatl]]
+* nahuatl ze środkowej Huasteki: (1.1) [[siuatl]]
+* nawaho: (1.1) [[asdzą́ą́]]
+* neapolitański: (1.1) [[femmena]] {{ż}}
+* nepalski: (1.1) [[आइमाई]]
+* niderlandzki: (1.1) [[vrouw]] {{ż}}
+* niemiecki: (1.1) [[Frau]] {{ż}}
+* niue: (1.1) [[fafine]]
+* norweski (bokmål): (1.1) [[kvinne]]
+* nowogrecki: (1.1) [[γυναίκα]] {{ż}} (gynaíka)
+* nowopruski: (1.1) [[genā]] {{ż}}
+* ormiański: (1.1) [[կին]] (kin)
+* pali: (1.1) [[itthi]] {{ż}}, [[abalā]] {{ż}}
+* pendżabski: (1.1) [[ਤੀਵੀਂ]] {{ż}} (tīvīṁ), [[ਔਰਤ]] {{ż}} (aurata), [[ਇਸਤਰੀ]] {{ż}} (isatarī), [[ਸੁਆਣੀ]] {{ż}} (suāṇī), [[ਜਨ]] {{ż}} (jana), [[ਜ਼ਨ]] {{ż}} (zana), [[ਜਨਾਨੀ]] {{ż}} (janānī), [[ਜ਼ਨਾਨੀ]] {{ż}} (zanānī), [[ਤਿਰਿਆ]] {{ż}} (tiriā), [[ਨਾਰ]] {{ż}} (nāra), [[ਭੰਡ]] {{ż}} (bhaṃḍa), [[ਮਹਿਲਾ]] {{ż}} (mahilā)
+* perski: (1.1) [[زن]] (zan)
+* pitjantjatjara: (1.1) [[kunga]]
+* polski język migowy: {{PJM-ukryj| (1.1) {{PJM|kobieta, prefiks-kobieta}} ''(także przedrostek oznaczający kobietę)''}}
+* połabski: (1.1) [[zenă]] {{ż}}
+* portugalski: (1.1) [[mulher]] {{ż}}
+* rosyjski: (1.1) [[женщина]] {{ż}}
+* rumuński: (1.1) [[femeie]] {{ż}}, [[muiere]] {{ż}}
+* sanskryt: (1.1) [[स्त्री]] {{ż}} (strī), [[जनी]] {{ż}} (janī), [[अङ्गना]] {{ż}} (aṅganā), [[महिला]] {{ż}} (mahilā)
+* serbski: (1.1) [[жена]] {{ż}}
+* skolt: (1.1) [[neezzan]]
+* słowacki: (1.1) [[žena]] {{ż}}
+* słoweński: (1.1) [[ženska]] {{ż}}, [[žena]] {{ż}}
+* sranan tongo: (1.1) [[wefi]]
+* staro-cerkiewno-słowiański: (1.1) [[жєна]] {{ż}}
+* starogrecki: (1.1) [[γυνή]] {{ż}} (gynḗ)
+* suahili: (1.1) [[mwanamke]], [[mke]], [[bibi]]
+* szwedzki: (1.1) [[kvinna]] {{w}}
+* średnioangielski: (1.1) [[womman]]
+* tagalski: (1.1) [[babae]]
+* tahitański: (1.1) [[vahine]]
+* tajski: (1.1) [[หญิง]] (yĭng), [[ผู้หญิง]] (pôo.yĭng)
+* tamilski: (1.1) [[பெண்]] (peṇ)
+* tarencki: (1.1) [[fèmmene]] {{ż}}
+* telugu: (1.1) [[ఇంతి]] {{ż}} (inti), [[మగువ]] {{ż}} (maguva), [[ఆడది]] {{ż}} (āḍadi), [[మహిళ]] {{ż}} (mahiḷa), [[కలకంఠి]] {{ż}} (kalakaṇṭhi)
+* tetum: (1.1) [[fetu]]
+* tigrinia: (1.1) [[ሰበይቲ]] {{ż}} (säbäyti)
+* tok pisin: (1.1) [[meri]]
+* tupinambá: (1.1) [[kunhã]]
+* turecki: (1.1) [[kadın]]
+* tuvalu: (1.1) [[fafine]]
+* tybetański: (1.1) [[མོ]] (mo)
+* udmurcki: (1.1) [[кышномурт]]
+* ukraiński: (1.1) [[жінка]] {{ż}}, [[кобіта]] {{ż}}
+* uzbecki: (1.1) [[xotin]], [[ayol]]
+* verlan: (1.1) [[meuf]]
+* waloński: (1.1) [[feume]] {{ż}}
+* węgierski: (1.1) [[nő]]
+* wietnamski: (1.1) [[phụ nữ]], [[đàn bà]]
+* wilamowski: (1.1) [[bow]] {{ż}}
+* włoski: (1.1) [[donna]] {{ż}}
+* wolof: (1.1) [[jigéen]]
+* zulu: (1.1) [[umfazi]]
+{{źródła}}
+<references />

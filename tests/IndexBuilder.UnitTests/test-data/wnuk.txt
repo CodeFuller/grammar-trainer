@@ -1,0 +1,137 @@
+{{podobne|wnu̇k|wnük}}
+__TOC__
+== wnuk ({{język polski}}) ==
+[[Plik:Family (2289540488).jpg|thumb|[[babcia]] [[i]] wnuki (1.1)]]
+[[Plik:Melmasi in teching time 001.jpg|thumb|[[dziadek]] [[z]] wnukiem (1.1)]]
+{{wymowa}}
+: {{IPA3|vnuk}}, {{AS3|vnuk}}
+: {{audio|LL-Q809 (pol)-Olaf-wnuk.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskoosobowy''
+: (1.1) [[syn]] [[córka|córki]] [[lub]] [[syn]]a
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-polski
+|Mianownik lp = wnuk
+|Dopełniacz lp = wnuka
+|Celownik lp = wnukowi
+|Biernik lp = wnuka
+|Narzędnik lp = wnukiem
+|Miejscownik lp = wnuku
+|Wołacz lp = wnuku
+|Mianownik lm = wnuki
+|Dopełniacz lm = wnuków
+|Celownik lm = wnukom
+|Biernik lm = wnuków
+|Narzędnik lm = wnukami
+|Miejscownik lm = wnukach
+|Wołacz lm = wnuki
+|Forma ndepr = wnukowie<ref name="SGJP">{{SaloniSGJP2012}}</ref>
+}}
+{{przykłady}}
+: (1.1) ''[[być|Jestem]] [[wnuk]]iem [[mój|mojej]] [[babcia|babci]] [[i]] [[mój|mojego]] [[dziadek|dziadka]].''
+{{składnia}}
+{{kolokacje}}
+: (1.1) wnuk [[wujeczny]] / [[stryjeczny]] / [[cioteczny]]
+{{synonimy}}
+: (1.1) {{stpol}} [[wnęk]] {{m}}
+{{antonimy}}
+{{hiperonimy}}
+: (1.1) [[zstępny]]
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[wnęk]] {{m}}, [[wnuczę]] {{n}}, [[wnuczęta]] {{n}} {{lm}}
+:: {{zdrobn}} [[wnuczek]] {{m}}, [[wnusio]] {{m}}, [[wnuś]] {{m}}
+:: {{fż}} [[wnuczka]]
+: {{przym}} [[wnuczkowy]]
+{{frazeologia}}
+: ''przysłowia:'' [[święta Anno! uproś wnuka, niech ma każdy, czego szuka]]
+{{etymologia}}
+: {{etym|prasł|*vъnukъ}}
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[grandson]]
+* arabski: (1.1) [[حفيد]] {{m}}, [[عقب]] {{m}}
+* białoruski: (1.1) [[унук]] {{m}}
+* bośniacki: (1.1) [[unuk]] {{m}}
+* bułgarski: (1.1) [[внук]] {{m}}
+* chorwacki: (1.1) [[unuk]] {{m}}
+* czeski: (1.1) [[vnuk]] {{m}}
+* duński: (1.1) [[barnebarn]] {{n}}
+* esperanto: (1.1) [[nepo]]
+* fiński: (1.1) [[lapsenlapsi]]
+* francuski: (1.1) [[petit-fils]] {{m}}
+* górnołużycki: (1.1) [[wnuk]] {{m}}
+* hebrajski: (1.1) [[נכד|נֶכֶד]] (nekhed) {{m}}
+* hiszpański: (1.1) [[nieto]] {{m}}
+* interlingua: (1.1) [[nepto]]
+* islandzki: (1.1) [[dóttursonur]] {{m}}, [[sonarsonur]] {{m}}
+* kaszubski: (1.1) [[wnuk]] {{m}}
+* łaciński: (1.1) [[nepos]] {{m}}
+* łotewski: (1.1) [[mazdēls]] {{m}}
+* maya: (1.1) [[áabil]]
+* niderlandzki: (1.1) [[kleinzoon]] {{m}}
+* niemiecki: (1.1) [[Enkel]] {{m}}
+* nowogrecki: (1.1) [[εγγονός]] {{m}}, [[εγγόνι]] {{n}}
+* pali: (1.1) [[nattu]]
+* polski język migowy: {{PJM-ukryj| (1.1) {{PJM|wnuk}} {{,}} {{PJM|wnuk 2}}}}
+* rosyjski: (1.1) [[внук]] (vnuk) {{m}}
+* rumuński: (1.1) [[nepot]]
+* sanskryt: (1.1) [[नप्तृ]]
+* serbski: (1.1) [[унук]]/[[unuk]] {{m}}
+* slovio: (1.1) [[vnukic]] (внукиц), [[vnuk]] (внук)
+* słowacki: (1.1) [[vnuk]] {{m}}
+* słoweński: (1.1) [[vnuk]] {{m}}
+* staroangielski: (1.1) [[sunsunu]]
+* szwedzki: (1.1) [[barnbarn]] {{n}}, [[dotterson]] {{w}}, [[sonson]] {{w}}
+* tuvalu: (1.1) [[mokopuna tagata]]
+* ukraiński: (1.1) [[внук]] {{m}}, [[онук]] {{m}}
+* węgierski: (1.1) [[unoka]]
+* wilamowski: (1.1) [[enkylkynd]], [[wnu̇k]] {{m}}, [[wnük]] {{m}}
+* włoski: (1.1) [[abbiatico]] {{m}}, [[nipote]] {{m}}
+{{źródła}}
+<references />
+
+== wnuk ({{język górnołużycki}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) [[wnuk]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} ''forma żeńska'' [[wnučka]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== wnuk ({{język kaszubski}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) [[wnuk]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}

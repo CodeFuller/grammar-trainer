@@ -1,0 +1,45 @@
+{{podobne|iberia}}
+== Iberia ({{język polski}}) ==
+{{wymowa}}
+: {{IPA3|iˈbɛrʲja}}, {{AS3|ib'''e'''rʹi ̯a}}, {{objaśnienie wymowy|ZM|IJ}}
+: {{audio|LL-Q809 (pol)-Poemat-Iberia.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{hist}} [[starożytny|starożytna]] [[nazwa]] [[Hiszpania|Hiszpanii]]
+: (1.2) {{hist}} {{staroż}} [[starożytny|starożytna]] [[kraina]] [[we]] [[wschodni]]ej [[Gruzja|Gruzji]]
+{{odmiana}}
+: (1.1-2) {{odmiana-rzeczownik-polski
+| Mianownik lp = Iberia
+| Dopełniacz lp = Iberii
+| Celownik lp = Iberii
+| Biernik lp = Iberię
+| Narzędnik lp = Iberią
+| Miejscownik lp = Iberii
+| Wołacz lp = Iberio
+| Mianownik lm = Iberie
+| Dopełniacz lm = Iberii<br />Iberyj {{przest}}
+| Celownik lm = Iberiom
+| Biernik lm = Iberie
+| Narzędnik lm = Iberiami
+| Miejscownik lm = Iberiach
+| Wołacz lm = Iberie
+}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.2) {{współcz}} [[Kartlia]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[iberystyka]] {{ż}}, [[Iber]] {{m}}, [[Iberyjka]] {{ż}}
+: {{przym}} [[iberyjski]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: {{wikipedia}}
+{{tłumaczenia}}
+{{źródła}}

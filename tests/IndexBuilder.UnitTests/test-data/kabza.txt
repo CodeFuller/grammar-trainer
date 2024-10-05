@@ -1,0 +1,69 @@
+__TOC__
+== kabza ({{język polski}}) ==
+[[Plik:Jeans pocket back.jpg|thumb|kabza (1.1)]]
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{gw-pl|Górny Śląsk}} [[kieszeń]]
+: (1.2) {{daw}} {{uczn}} [[karcer]] (''szkolna kara'')<ref>Jan Bystroń, ''Języki drugorzędne'', „Poradnik Językowy” nr 7/1911, s. 103.</ref>
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-polski
+| Mianownik lp = kabza
+| Dopełniacz lp = kabzy
+| Celownik lp = kabzie
+| Biernik lp = kabze<br />kabzę
+| Narzędnik lp = kabzą<br />kabzom
+| Miejscownik lp = kabzi<br />kabzie
+| Wołacz lp = kabzo
+| Mianownik lm = kabzy
+| Dopełniacz lm = kabz
+| Celownik lm = kabzom
+| Biernik lm = kabzy
+| Narzędnik lm = kabzami
+| Miejscownik lm = kabzach
+| Wołacz lm = kabzy
+}}
+{{przykłady}}
+: (1.1) ''[[co|Co]] [[tam]] [[trzymać|trzymiesz]] [[w]] [[ta|tyj]] [[kabza|kabzi]]?''
+: (1.1) ''[[no|No]] [[prawda|prowda]] [[gadać|godosz]], [[ino]] [[widzieć|widzisz]] [[w]] [[kabza|kabzie]] [[mieć|mom]] [[śniadanie]] – [[powiadać|pado]] [[Antek]] [[i]] [[dalej]] [[szukać|szuko]] [[i]] [[szukać|szuko]]''<ref>Z Internetu.</ref>.
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.1) [[kieszeń]], {{gw-pl|Śląsk Cieszyński|[[kapsa]]}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+: (1.1) {{por}} {{etymn|pol|kapsa}}, {{etymn|czeski|kapsa}} < {{etym|łaciński|capsa}}<ref>[http://ssjc.ujc.cas.cz/search.php?heslo=kapsa&hsubstr=no ''Slovník spisovného jazyka českého'']</ref>
+{{uwagi}}
+{{tłumaczenia}}
+: (1.1) {{zobtłum|kieszeń}}
+: (1.2) {{zobtłum|karcer}}
+{{źródła}}
+<references/>
+
+== kabza ({{język turecki}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) [[uchwyt]] ([[broń|broni]])
+: (1.2) {{slang}} [[garść]] [[haszysz]]u
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}} {{etym|osm|قبضه}}
+{{uwagi}}
+{{źródła}}

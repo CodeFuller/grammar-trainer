@@ -1,0 +1,11 @@
+<Project>
+
+  <ImportGroup Label="Properties">
+    <Import Project="GrammarTrainer.props" />
+  </ImportGroup>
+
+  <PropertyGroup>
+    <CodeAnalysisRuleSet>..\..\GrammarTrainer.src.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+
+</Project>

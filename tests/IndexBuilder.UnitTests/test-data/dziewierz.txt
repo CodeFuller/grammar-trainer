@@ -1,0 +1,49 @@
+== dziewierz ({{język polski}}) ==
+{{wymowa}} {{IPA3|ˈʥ̑ɛvʲjɛʃ}}, {{AS3|ʒ́'''e'''vʹi ̯eš}}, {{objaśnienie wymowy|ZM|WYG|IJ}} {{audio|Pl-dziewierz.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskoosobowy''
+: (1.1) {{stpol}} {{książk}} [[brat]] [[mąż|męża]]<ref>{{MSJP1969|hasło=dziewierz|strony=153}}</ref><ref>{{Gloger1900|hasło=dziewierz}}</ref>; {{Gloger}}
+: (1.2) {{stpol}} [[brat]] [[żona|żony]]<ref name="Łoś">Jan Łoś, ''Nazwy stopni pokrewieństwa i powinowactwa w dawnej Polsce'', „Język Polski” nr 1/1914, s. 6.</ref>
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-polski
+|Mianownik lp = dziewierz
+|Dopełniacz lp = dziewierza
+|Celownik lp = dziewierzowi
+|Biernik lp = dziewierza
+|Narzędnik lp = dziewierzem
+|Miejscownik lp = dziewierzu
+|Wołacz lp = dziewierzu
+|Mianownik lm = dziewierze
+|Dopełniacz lm = dziewierzy / {{rzad}} dziewierzów<ref>{{SGJPonline}}</ref>
+|Celownik lm = dziewierzom
+|Biernik lm = dziewierzy / {{rzad}} dziewierzów
+|Narzędnik lm = dziewierzami
+|Miejscownik lm = dziewierzach
+|Wołacz lm = dziewierze
+}}
+{{przykłady}}
+: (1.1) ''[[dawniej|Dawniej]] [[Polka|Polki]] [[zwać|zwały]] [[brat]]a [[mąż|męża]] [[nie]] [[szwagier|szwagrem]], [[ale]] [[dziewierz]]em.''
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+: (1.1) [[zełwa]], [[zełwica]], [[zołwa]]
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+: (1.2) ''przeniesienie nazwy z (1.1)''<ref name="Łoś"/>
+{{uwagi}}
+: (1.1) {{por|szwagier|szwagierka|szurza}}
+{{tłumaczenia}}
+* białoruski: (1.1) [[дзевер]] {{m}}
+* bułgarski: (1.1) [[девер]] {{m}}
+* litewski: (1.1) [[dieveris]] {{m}}
+* łaciński: (1.1) [[levir]] {{m}}
+* łotewski: (1.1) [[dieveris]] {{m}}
+* rosyjski: (1.1) [[деверь]] {{m}}
+{{źródła}}
+<references/>

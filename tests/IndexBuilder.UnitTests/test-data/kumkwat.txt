@@ -1,0 +1,60 @@
+== kumkwat ({{język polski}}) ==
+[[Plik:Starr 070111-3157 Fortunella sp..jpg|thumb|kumkwat (1.1)]]
+[[Plik:Kumquat-Crosssection.jpeg|thumb|kumkwaty (1.2)]]
+{{wymowa}}
+: {{IPA3|ˈkũmkfat}}, {{AS3|k'''ũ'''mkfat}}, {{objaśnienie wymowy|BDŹW|NAZAL}}
+: {{audio|LL-Q809 (pol)-Olaf-kumkwat.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskorzeczowy''
+: (1.1) {{bot}} {{nazwa systematyczna|Fortunella|ref=tak}}, [[krzew]] [[lub]] [[niewielki]]e [[drzewo]] [[cytrusowy|cytrusowe]] [[pochodzić|pochodzące]] [[z]] [[Chiny|Chin]], [[uprawiać|uprawiane]] [[w]] [[Azja|Azji]] [[i]] [[Ameryka Północna|Ameryce Północnej]] [[dla]] [[owoc]]ów [[lub]] [[jako]] [[roślina]] [[ozdobny|ozdobna]]; {{wikipedia}}
+: (1.2) [[mały]], [[pomarańczowy]], [[słodko-kwaśny]] [[owoc]] [[ta|tej]] [[roślina|rośliny]]
+{{odmiana}}
+: (1.1-2) {{odmiana-rzeczownik-polski
+|Mianownik lp = kumkwat
+|Dopełniacz lp = kumkwata/kumkwatu<ref name="SWO">{{SWO-PWN2008|hasło=kumkwat|strony=708}}</ref>
+|Celownik lp = kumkwatowi
+|Biernik lp = kumkwat
+|Narzędnik lp = kumkwatem
+|Miejscownik lp = kumkwacie
+|Wołacz lp = kumkwacie
+|Mianownik lm = kumkwaty
+|Dopełniacz lm = kumkwatów
+|Celownik lm = kumkwatom
+|Biernik lm = kumkwaty
+|Narzędnik lm = kumkwatami
+|Miejscownik lm = kumkwatach
+|Wołacz lm = kumkwaty
+}}
+{{przykłady}}
+: (1.1) ''[[do|Do]] [[biologiczny|biologicznego]] [[rodzaj]]u [[kumkwat]]u [[należeć|należy]] [[sześć]] [[gatunek|gatunków]].''
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.2) [[kinkan]]<ref name="SWO"></ref>
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+: {{etym|angielski|kumquat}} < {{etym|kantoński|金橘}} (gam1 gwat1)<ref>{{AmHeritage|hasło=kumquat}}</ref>
+{{uwagi}}
+: (1.2) zobacz też: [[Indeks:Polski - Owoce]]
+{{tłumaczenia}}
+* angielski: (1.2) [[kumquat]], [[cumquat]]
+* chiński standardowy: (1.1) [[金橘]] (jīnjú); (1.2) [[金橘]] (jīnjú)
+* czeski: (1.2) [[kumquat]]
+* duński: (1.2) [[limequat]]
+* hiszpański: (1.2) [[kuncuat]] {{m}}, [[quinoto]] {{m}}
+* japoński: (1.1) [[金橘]] ([[きんかん]]) / [[キンカン]] (kinkan); (1.2) [[金橘]] ([[きんかん]]) / [[キンカン]] (kinkan)
+* kantoński: (1.1) [[金橘]] (gam1 gwat1); (1.2) [[金橘]] (gam1 gwat1)
+* koreański: (1.1) [[금귤]] (kŭmgyul); (1.2) [[금귤]] (kŭmgyul)
+* niemiecki: (1.2) [[Kumquat]] {{ż}}
+* nowogrecki: (1.2) [[κουμ κουάτ]], [[κουμ-κουάτ]], [[κουμκουάτ]] (koumkouát)
+* rosyjski: (1.1) [[кумкват]] {{m}}; (1.2) [[кумкват]] {{m}}
+* tajski: (1.2) [[ส้มจี๊ด]] (somchíd)
+* wietnamski: (1.2) [[cẩm quất]], ([[quả]]) [[kim quất]]
+{{źródła}}
+<references />

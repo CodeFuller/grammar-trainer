@@ -1,0 +1,92 @@
+{{podobne|bòhater}}
+== bohater ({{język polski}}) ==
+{{wymowa}}
+: {{IPA3|bɔˈxatɛr}}, {{AS3|boχ'''a'''ter}} {{audio|Pl-bohater.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskoosobowy''
+: (1.1) [[człowiek]], [[który]] [[wykazać się|wykazał się]] [[męstwo|męstwem]], [[odwaga|odwagą]], [[poświęcenie]]m [[itp.]]
+: (1.2) {{liter}} {{teatr}} {{film}} [[główny|główna]] [[postać]] [[utwór|utworu]]
+: (1.3) [[osoba]] [[budzić|budząca]] [[chwilowy|chwilowe]] [[zainteresowanie]], [[chwilowo]] [[skupiać|skupiająca]] [[na]] [[sobie]] [[uwaga|uwagę]] [[otoczenie|otoczenia]]<ref>{{USJPonline}}</ref>
+{{odmiana}}
+: (1.1-3) {{odmiana-rzeczownik-polski
+|Mianownik lp = bohater
+|Dopełniacz lp = bohatera
+|Celownik lp = bohaterowi
+|Biernik lp = bohatera
+|Narzędnik lp = bohaterem
+|Miejscownik lp = bohaterze
+|Wołacz lp = bohaterze
+|Mianownik lm = bohaterowie / bohaterzy
+|Dopełniacz lm = bohaterów
+|Celownik lm = bohaterom
+|Biernik lm = bohaterów
+|Narzędnik lm = bohaterami
+|Miejscownik lm = bohaterach
+|Wołacz lm = bohaterowie / bohaterzy
+|Forma depr = bohatery
+}}
+{{przykłady}}
+: (1.1) ''[[inny|Inna]] [[nadzieja]] [[demokrata|demokratów]] [[to]] [[John]] Kerry, [[senator]] [[z]] [[Massachusetts]], [[bohater]] [[wojna|wojny]] [[w]] [[Wietnam]]ie, [[gdzie]] [[zostać|został]] [[kilkakrotnie]] [[ranny]]''<ref>{{KJP|typ=p|tytuł=Polityka|nr=01.03 (1)|miejsce=Warszawa|rok=2004|id=1116,1;8151}}</ref>.
+: (1.2) ''[[jak|Jak]] [[pamiętać|pamiętamy]], [[główny]] [[bohater]] „[[potop|Potopu]]” [[pan]] [[Andrzej]] Kmicic [[być|był]] [[ważny|najważniejszym]] [[baca|bacą]] [[na]] [[Żmudź|Żmudzi]], [[stąd]] [[słynny|słynna]] [[on|jego]] [[baranica]], [[który|którą]] [[okrywać|okrywał]] [[się]], [[pędzić|pędząc]] [[z]] [[Oleńka|Oleńką]] [[w]] [[rozpędzony]]ch [[sanie|saniach]] [[z]] [[Wodokty|Wodoktów]] [[do]] [[Wołmontowicze|Wołmontowicz]]''<ref>{{KJP|typ=p|tytuł=Tygodnik Podhalański|nr=35|miejsce=Zakopane|rok=1999|id=1185,1;11816}}</ref>.
+: (1.3) ''[[to|To]] [[bohater]] [[krytyczny]]ch [[artykuł]]ów [[o]] [[wykorzystywanie|wykorzystywaniu]] [[antena|anteny]] [[publiczny|publicznej]] [[telewizja|telewizji]] [[do]] [[realizowanie|realizowania]] [[partyjny]]ch [[interes]]ów [[żona|żony]]''<ref>{{KJP|typ=p|tytuł=Rzeczpospolita|nr=07.13|miejsce=Warszawa|rok=2004|id=729,1;5621}}</ref>.
+{{składnia}}
+: (1.1-3) bohater + {{D}} (czego?)
+{{kolokacje}}
+: (1.1) bohater [[narodowy]] / [[wojenny]] • bohater [[powstanie|powstania]] / [[rewolucja|rewolucji]] / [[wojna|wojny]] / [[bitwa|bitwy]] • [[udawać]] / [[zgrywać]] bohatera • [[chwała]] bohaterom • [[składać]] [[hołd]] bohaterom
+: (1.2) [[główny]] bohater • bohater [[tytułowy]] • bohater [[pierwszoplanowy]] / [[drugoplanowy]] • [[bohater pozytywny]] • bohater [[powieść|powieści]] / [[dramat]]u / [[film]]u / [[nowela|noweli]] / [[telenowela|telenoweli]] / [[serial]]u • [[dzieje]] / [[los]]y bohatera • [[śledzić]] [[los]]y bohatera
+: (1.3) bohater [[awantura|awantury]] / [[incydent]]u / [[zajście|zajścia]] • bohater [[dzień|dnia]] / [[wieczór|wieczoru]] / [[miesiąc]]a • bohater [[masowy|masowej]] [[wyobraźnia|wyobraźni]]
+{{synonimy}}
+: (1.1) [[heros]]
+: (1.3) [[aktor]]
+{{antonimy}}
+: (1.1) [[antybohater]]
+{{hiperonimy}}
+: (1.1) [[śmiałek]]
+: (1.2) [[postać]]
+: (1.3) [[uczestnik]]
+{{hiponimy}}
+: (1.1) [[męczennik]]
+: (1.2) [[antybohater]]
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[bohaterstwo]] {{n}}, [[bohaterskość]] {{ż}}, [[bohaterszczyzna]] {{ż}}
+:: {{fż}} [[bohaterka]] {{ż}}
+: {{przym}} [[bohaterski]]
+: {{przysł}} [[bohatersko]]
+{{frazeologia}}
+: [[bohater dnia]]
+{{etymologia}}
+: {{etym2|ukr|богатир|богати́р}} < {{etym|tatar}} < {{etym|stturk|baɣatur}} < {{etym|mongklas}} < {{etym|stpers}}<ref>{{WSJPonline|hasło=bohater|id=49275}}</ref><ref>{{StachowskiSHET2014|strony=80}}</ref>, {{por}} {{etymn|pers|بهادر}} (bahādor)<ref>{{Bruckner1927|hasło=bohater}}</ref> → [[odważny]], [[śmiały]], [[silny]]; [[żołnierz]], bohater<ref>{{DigitalDictionariesofSouthAsia}}</ref>
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[hero]]; (1.2) [[character]]
+* arabski: (1.1) [[بطل]] {{m}}
+* baskijski: (1.1) [[heroi]]
+* białoruski: (1.1) [[герой]] {{m}}; (1.2) [[герой]] {{m}}; (1.3) [[герой]] {{m}}
+* bułgarski: (1.1) [[герой]] {{m}}; (1.2) [[герой]] {{m}}
+* czeski: (1.1) [[hrdina]] {{m}}
+* duński: (1.1) [[helt]] {{w}}
+* esperanto: (1.1) [[heroo]]; (1.2) [[heroo]]
+* francuski: (1.1) [[héros]] {{m}}; (1.2) [[personnage]] {{m}}
+* grenlandzki: (1.1) [[sapiitsuliortoq]]
+* gruziński: (1.1) [[გმირი]] (gmiri)
+* hiszpański: (1.1) [[héroe]] {{m}}; (1.2) [[héroe]] {{m}}; (1.3) [[héroe]] {{m}}
+* islandzki: (1.1) [[hetja]] {{ż}}
+* jidysz: (1.1) [[העלד]] {{m}} (held), [[גיבור]] {{m}} (giber); (1.2) [[העלד]] {{m}} (held)
+* kaszubski: (1.1) [[heroja]] {{m}}; (1.2) [[heroj]] {{m}}
+* kataloński: (1.1) [[heroi]] {{m}}
+* kazachski: (1.1) [[қаһарман]]; (1.2) [[кейіпкер]], [[қаһарман]]
+* niderlandzki: (1.1) [[held]] {{m}}; (1.2) [[personnage]] {{n}}
+* niemiecki: (1.1) [[Held]] {{m}}; (1.2) [[Held]] {{m}}
+* norweski (bokmål): (1.1) [[helt]] {{m}}
+* nowogrecki: (1.1) [[ήρωας]] {{m}}; (1.2) [[ήρωας]] {{m}}; (1.3) [[ήρωας]] {{m}}
+* nowopruski: (1.1) [[erōjs]] {{m}}
+* rosyjski: (1.1) [[герой]] {{m}}; (1.2) [[герой]] {{m}}; (1.3) [[герой]] {{m}}
+* sanskryt: (1.1) [[वीर]]
+* słowacki: (1.1) [[hrdina]] {{m}}
+* tybetański: (1.1) [[དཔའ་བོ]]
+* ukraiński: (1.1) [[герой]] {{m}}; (1.2) [[герой]] {{m}}; (1.3) [[герой]] {{m}}
+* włoski: (1.1) [[eroe]] {{m}}; (1.2) [[protagonista]] {{m}}
+{{źródła}}
+<references />

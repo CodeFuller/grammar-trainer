@@ -1,0 +1,11 @@
+{
+  "logging": {
+    "defaultLogLevel": "Debug",
+    "targets": [
+      {
+        "type": "Console",
+        "logLevel": "Debug"
+      }
+    ]
+  }
+}

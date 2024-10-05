@@ -1,0 +1,504 @@
+{{podobne|-dom|DOM|Dom|dom.|domm|doom|dóm|döm}}
+== dom ({{język polski}}) ==
+[[Plik:Wittenbach Tobel Kronbühl - panoramio - Beat Koller (2).jpg|thumb|dom (1.1)]]
+[[Plik:Eggroll Man on New Years in New Orleans.jpg|thumb|dom (1.2)]]
+{{wymowa}}
+: {{lp}} {{audio|Pl-dom.ogg}}, {{IPA3|dɔ̃m}}, {{AS3|dõm}}, {{objaśnienie wymowy|NAZAL}}; {{lm}} {{IPA2|ˈdɔmɨ}}
+: {{audio|LL-Q809 (pol)-KaMan-dom.wav}} {{audio|Pl-dom-2.ogg}} {{audio|LL-Q809 (pol)-Gower-dom.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskorzeczowy''
+: (1.1) {{archit}} {{urb}} [[oddzielny]] [[budynek]] [[mieszkalny]]
+: (1.2) [[pomieszczenie]] [[lub]] [[miejsce]] [[który|które]] [[kojarzyć|kojarzymy]] [[z]] [[dom rodziny|domem rodzinnym]] [[lub]] [[z]] [[ognisko domowe|ogniskiem domowym]]
+: (1.3) {{urz}} [[placówka]] [[społeczny|społeczna]], [[usługowy|usługowa]] [[lub]] [[handlowy|handlowa]]
+: (1.4) {{herald}} [[ród]], [[rodzina]], [[dynastia]]
+{{odmiana}}
+: (1.1-4) {{odmiana-rzeczownik-polski
+| Mianownik lp = dom
+| Mianownik lm = domy
+| Dopełniacz lp = domu
+| Dopełniacz lm = domów
+| Celownik lp = domowi
+| Celownik lm = domom
+| Biernik lp = dom
+| Biernik lm = domy
+| Narzędnik lp = domem
+| Narzędnik lm = domami
+| Miejscownik lp = domu / {{przest}} domie<ref name="poradniaPWN">{{PoradniaPWN|hasło=dom|id=6010}}</ref>
+| Miejscownik lm = domach
+| Wołacz lp = domu / {{przest}} domie<ref name="poradniaPWN" /><ref>{{DoroszewskiOnline}}</ref><ref>{{SGJPonline|id=3962}}</ref>
+| Wołacz lm = domy
+}}
+{{przykłady}}
+: (1.1) ''[[w|W]] [[miasto|mieście]] [[wyrosnąć|wyrosło]] [[wiele]] [[nowy]]ch [[dom]]ów.''
+: (1.1) ''[[w|W]] [[ten|tym]] [[dom]]u [[obok]] [[mieszkać|mieszka]] [[mój]] [[kuzyn]].''
+: (1.2) ''[[w|W]] [[droga|drodze]] [[do]] [[dom]]u [[wstąpić|wstąpiłem]] [[na]] [[poczta|pocztę]].''
+: (1.2) ''[[niektóry|Niektórzy]] [[nauczyciel]]e [[twierdzić|twierdzą]], [[że]] [[szkoła]] [[być|jest]] [[drugi]]m [[dom]]em [[uczeń|ucznia]].''
+: (1.3) ''[[syn|Syn]] [[sąsiad]]a [[za]] [[kradzież]] [[dokonywać|dokonaną]] [[w]] [[dom handlowy|'''domu''' handlowym]], [[trafić|trafił]] [[do]] [[dom poprawczy|'''domu''' poprawczego]].''
+: (1.4) ''[[być|Jestem]] [[Joanna]] Kowalska, [[z]] [[dom]]u Nowak.''
+{{składnia}}
+: (1.3) ''tylko w połączeniu z przydawką (przymiotnikową lub rzeczownikową)''
+{{kolokacje}}
+: (1.1) [[budować]] / [[burzyć]] / [[remontować]] dom • [[stary]] / [[nawiedzony]] dom
+: (1.2) [[iść]] / [[jechać]] / [[wracać]] / [[wrócić]] [[do]] domu • [[być]] / [[siedzieć]] [[w]] domu • [[uciec]] [[z]] domu • [[nie]] [[mieć]] domu
+: (1.3) [[dom akademicki]] • [[dom poprawczy]] • [[dom maklerski]] • [[dom handlowy]] • [[dom towarowy]] • [[dom studencki]] • [[dom publiczny]] • [[dom dziecka]] • [[dom starców]] • [[dom pomocy społecznej]] • [[dom wariatów]] • [[dom wczasowy]] • [[dom wypoczynkowy]] • [[dom noclegowy]] • [[dom zdrojowy]] • [[dom pogrzebowy]]
+: (1.4) [[dziecko]] [[z]] [[dobry|dobrego]] / [[porządny|porządnego]] / [[biedny|biednego]] domu
+{{synonimy}}
+: (1.1) {{gw-pl|Śląsk Cieszyński|[[dóm]]}}
+: (1.2) [[mieszkanie]], [[dach nad głową]], [[własny kąt]], [[ognisko domowe]], [[gniazdo rodzinne]], [[ojcowska strzecha]], [[pielesze]]; {{gw-pl|Śląsk Cieszyński|[[dóm]]}}
+{{antonimy}}
+{{hiperonimy}}
+: (1.1) [[budynek]]
+{{hiponimy}}
+: (1.1) [[apartamentowiec]], [[blok]], [[wieżowiec]], [[willa]], [[chałupa]], [[chata]], [[dwór]], [[kamienica]], [[rezydencja]], [[pałac]], [[zamek]]
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[domostwo]] {{n}}, [[domator]] {{m}}, [[domatorka]] {{ż}}, [[domownik]] {{m}}, [[domowniczka]] {{ż}}, [[domówka]] {{ż}}, [[podomka]] {{ż}}, [[udomowienie]] {{n}}, [[udomawianie]] {{n}}
+:: {{zdrobn}} [[domek]] {{m}}, [[domeczek]] {{m}}
+:: {{zgrub}} [[domisko]] {{n}}, [[domiszcze]] {{n}}
+: {{czas}} [[udomowić]] {{dk}}, [[udomawiać]] {{ndk}}, [[zadomowić się]] {{dk}}, [[zadomawiać się]] {{ndk}}
+: {{przym}} [[domowy]], [[przydomowy]], [[wewnątrzdomowy]]
+: {{przysł}} [[doma]], [[domowo]]
+{{frazeologia}}
+: {{zob|[[Aneks:Przysłowia polskie - dom|przysłowia o domu]]}}
+: [[czuć się jak u siebie w domu]] • [[szklane domy]] • [[dom bez klamek]] / [[dom wariatów]] • [[dom boży]] • [[dom dziecka]] • [[dom publiczny]] • [[gość w dom, Bóg w dom]] • [[pani domu]] • [[pan domu]] • [[nie mów nikomu, co się dzieje w domu]] • [[każdy jest panem we własnym domu]] • [[w domu jak w raju]] • [[szczęśliwy dom, gdzie pająki są]] • [[tam dom twój, gdzie serce twoje]] • [[głodno, chłodno i do domu daleko]] • [[gość w domu – baba w ciąży]] • [[nie ma to, jak we własnym domu]] • [[swoje brudy trzeba prać w domu]] • [[wszyscy z domu, a piec komu?]] • [[nie pan domem stoi, ale dom panem]] • [[nie rządź się w cudzym domu]]
+{{etymologia}}
+: {{etym|prasł|*domъ}} < {{etym|praindoeur|*domus}}, {{por}} {{etymn|łac|domus}}<ref>{{Boryś2005}}</ref>
+: ''źródłosłów dla imion:'' [[Domamir]], [[Domarad]], [[Domasław]], [[Doman]], ''a także nazwisk:'' [[Domach]], [[Domaczko]], [[Domaj]], [[Domak]], [[Domal]], [[Domała]], [[Domaniec]], [[Domanik]], [[Domański]], [[Domaradzki]], [[Domasławski]], [[Domaszek]], [[Domaszkiewicz]], [[Domaszko]], [[Domisz]], [[Domkowicz]]<ref>Jan Miodek, ''Rozmyślajcie nad mową!'', Prószyński i S-ka, Warszawa 1999, s. 35.</ref>
+{{uwagi}}
+: {{zoblistę|mieszkanie|izba|dom}}
+{{tłumaczenia}}
+* abchaski: (1.1) [[аҩны]] (āʿ°nə)
+* abenaki: (1.1) [[wigwôm]]
+* adygejski: (1.1) [[унэ]] (wnă)
+* afrykanerski: (1.1) [[huis]]
+* ajnoski: (1.1) [[チセ]] (cise)
+* akadyjski: (1.1) [[𒂍]] (bītu, bētu)
+* albański: (1.1) [[shtëpi]] {{ż}}; (1.2) [[shtëpi]] {{ż}}
+* ama: (1.1) [[nu]]
+* amharski: (1.1) [[ቤት]] {{m}} (bēt)
+* angielski: (1.1) [[house]]; (1.2) [[home]]
+* arabski: (1.1-2) [[بيت]] ,[[دار]] ,[[منزل]] ,[[موطن]] ,[[مسكن]]
+* aramejski: (1.1) ''syryjski'' [[ܒܝܬܐ]] {{m}} (baytā’), ''hebrajski'' [[ביתא]] {{m}} (baytā’)
+* arumuński: (1.1) [[casã]] {{ż}}
+* asturyjski: (1.1) [[casa]] {{ż}}
+* awarski: (1.1) [[рукъ]] (ruq̇̄)
+* azerski: (1.1) [[ev]]
+* baskijski: (1.1) [[etxe]]; (1.2) [[etxe]]
+* baszkirski: (1.1) [[өй]] (öy)
+* beludżi: (1.1) [[گس]] (gis), [[لوگ]] (log)
+* bengalski: (1.1) [[ঘর]] (ghôr)
+* białoruski: (1.1) [[дом]] {{m}} (dom)
+* birmański: (1.1) [[အိမ်]] (aain)
+* bośniacki: (1.1) [[kuća]] {{ż}}
+* bretoński: (1.1) [[ti]] {{m}}
+* bułgarski: (1.1) [[къща]] {{ż}} (kŭshta), [[дом]] {{m}} (dom); (1.2) [[дом]] {{m}} (dom)
+* buriacki: (1.1) [[гэр]] (ger)
+* cebuano: (1.1) [[balay]]
+* chakaski: (1.1) [[тура]] (tura)
+* chiński standardowy: (1.1) [[房子]] (fángzi), [[屋子]] (wūzi), [[房屋]] (fángwū), [[家]] (jiā); (1.2) [[家]] (jiā), [[家庭]] (jiātíng); (1.4) [[家]] (jiā)
+* chorwacki: (1.1) [[kuća]] {{ż}}; (1.2) [[kuća]] {{ż}}, [[dom]] {{m}}; (1.3) [[kuća]] {{ż}}; (1.4) [[kuća]] {{ż}}
+* czeski: (1.1) [[dům]] {{m}}
+* cziczewa: (1.1) [[nyumba]]
+* czoktaw: (1.1) [[chuka]]
+* dalmatyński: (1.1) [[cuosa]] {{ż}}
+* dolnołużycki: (1.1) [[dom]] {{m}}
+* dolnoniemiecki: (1.1) [[Huus]] {{n}}
+* duński: (1.1) [[hus]] {{n}}; (1.2) [[hjem]] {{n}}
+* elfdalski: (1.1) [[aus]] {{n}}
+* esperanto: (1.1) [[domo]]; (1.2) [[hejmo]]; (1.4) [[domo]]
+* estoński: (1.1) [[maja]], [[koda]]
+* fenicki: (1.1) [[𐤁𐤕]] {{ż}} (bt)
+* fiński: (1.1) [[talo]]; (1.2) [[koti]]
+* francuski: (1.1) [[maison]] {{ż}}, [[ménage]] {{m}}; (1.2) [[maison]] {{ż}}; (1.3) [[centre]] {{m}} d'[[acceuil]], [[magasin]] {{m}}; (1.4) [[maison]] {{ż}}
+* fryzyjski: (1.1) [[hûs]] {{n}}
+* galicyjski: (1.1) [[casa]] {{ż}}
+* gocki: (1.1) [[𐍂𐌰𐌶𐌽]] {{n}} (razn)
+* górnołużycki: (1.1) [[dom]] {{m}}
+* grenlandzki: (1.1) [[illu]]
+* gruziński: (1.1) [[სახლი]] (sakhli)
+* guarani: (1.1) [[oga]]
+* gudźarati: (1.1) [[ઘર]] {{n}} (ghara)
+* haitański: (1.1) [[kay]]
+* hausa: (1.1) [[gida]]
+* hawajski: (1.1) [[hale]]
+* hebrajski: (1.1) [[בית]] {{m}} (bajit); (1.2) [[בית]] {{m}} (bajit); (1.3) [[בית]] {{m}} (bajit); (1.4) [[בית]] {{m}} (bajit)
+* hetycki: (1.1) [[𒂍]] (pir, parn-)
+* hiligaynon: (1.1) [[balay]]
+* hindi: (1.1) [[घर]] {{m}} (ghar), [[मकान]] {{m}} (makān), [[गृह]] {{m}} (gŕh)
+* hiszpański: (1.1) [[casa]] {{ż}}; (1.2) [[hogar]] {{m}}, [[casa]] {{ż}}; (1.3) [[casa]] {{ż}}; (1.4) [[casa]] {{ż}}
+* ido: (1.1) [[domo]]; (1.2) [[hemo]]
+* igbo: (1.1) [[ụlọ]]
+* inari: (1.1) [[táálu]]
+* indonezyjski: (1.1) [[rumah]]
+* interlingua: (1.1) [[casa]]
+* irlandzki: (1.1) [[teach]] {{m}}; (1.2) [[baile]] {{m}}
+* islandzki: (1.1) [[hús]] {{n}}; (1.2) [[heimili]] {{n}}; (1.3) [[hús]] {{n}}; (1.4) [[ætt]] {{ż}}
+* jakucki: (1.1) [[дьиэ]] (cie)
+* japoński: (1.1) [[家]] ([[いえ]], ie, [[うち]], uchi), [[建物]] ([[たてもの]], tatemono)
+* jawajski: (1.1) [[omah]]
+* jidysz: (1.1) [[הויז]] {{n}} (hojz); (1.2) [[היים]] {{ż}} (hejm); (1.3) …[[בית]]־ {{n}} (bejs-…)
+* joruba: (1.1) [[ilé]]
+* kabardyjski: (1.1) [[унэ]] (wnă)
+* kannada: (1.1) [[ಗೃಹ]] (gr̥ha), [[ಮನೆ]] (mane)
+* karaczajsko-bałkarski: (1.1) [[юй]] (üy)
+* kaszubski: (1.1) [[dóm]] {{m}}, [[bùdink]] {{m}}, [[chëcz]] {{ż}}, [[dodóm]] {{m}}; (1.2) [[dóm]] {{m}}
+* kataloński: (1.1) [[casa]] {{ż}}; (1.2) [[casa]] {{ż}}; (1.3) [[casa]] {{ż}}; (1.4) [[casa]] {{ż}}
+* kazachski: (1.1) [[үй]] (üy)
+* keczua: (1.1) [[wasi]]
+* khmerski: (1.1) [[ផ្ទះ]] (p’dtēiəh)
+* kildin: (1.1) [[пэ̄ҏҏт]] (pēřřt)
+* kirgiski: (1.1) [[үй]] (üy)
+* klingoński: (1.1) [[juh|juH]]
+* komi-zyriański: (1.1) [[керка]] (kerka)
+* koreański: (1.1) [[집]] (jip); (1.2) [[집]] (jip)
+* kornijski: (1.1) [[chi]] {{m}}
+* korsykański: (1.1) [[casa]] {{ż}}
+* krymskotatarski: (1.1) [[üy]]
+* kurmandżi: (1.1) [[xanî]] {{m}}
+* lakota: (1.1) [[tipi]]
+* laotański: (1.1) [[ບ້ານ]] (bān), [[ເຮືອນ]] (hư̄an)
+* lingala: (1.1) [[ndáko]]
+* litewski: (1.1) [[namas]] {{m}}
+* luksemburski: (1.1) [[Haus]] {{n}}
+* łaciński: (1.1) [[domus]] {{ż}}; (1.4) [[gens]] {{ż}}
+* łatgalski: (1.1) [[noms]] {{m}}
+* łotewski: (1.1) [[māja]] {{ż}}, [[nams]] {{m}}
+* macedoński: (1.1) [[куќа]] {{ż}} (kuḱa), [[дом]] {{m}} (dom); (1.2) [[дом]] {{m}} (dom)
+* malajalam: (1.1) [[വീട്]] (vīṭ)
+* malajski: (1.1) [[rumah]]
+* malgaski: (1.1) [[trano]]
+* maltański: (1.1) [[dar]] {{ż}}; (1.2) [[dar]] {{ż}}
+* mandinka: (1.1) [[buŋo]]
+* maoryski: (1.1) [[whare]]
+* marathi: (1.1) [[घर]] {{n}} (ghar)
+* mongolski: (1.1) [[байшин]] (baishin)
+* nahuatl klasyczny: (1.1) [[calli]]; (1.2) [[chantli]]
+* neapolitański: (1.1) [[casa]] {{ż}}
+* nepalski: (1.1) [[घर]] (ghara)
+* niderlandzki: (1.1) [[huis]] {{n}}
+* niemiecki: (1.1) [[Haus]] {{n}}; (1.2) [[Heim]] {{n}}; (1.3) [[Haus]] {{n}}
+* norweski (bokmål): (1.1) [[hus]] {{n}}
+* nowogrecki: (1.1) [[σπίτι]] {{n}} (spíti), [[οίκος]] {{m}} (oíkos); (1.2) [[σπίτι]] {{n}} (spíti); (1.3) [[κατάστημα]] {{n}}; (1.4) [[σπίτι]] {{n}} (spíti), [[οίκος]] {{m}} (oíkos)
+* orija: (1.1) [[ଘର]] (ghara)
+* ormiański: (1.1) [[տուն]] (tun)
+* pali: (1.1) [[mandira]]
+* pampango: (1.1) [[bale]]
+* paszto: (1.1) [[كور]] {{m}} (kor), [[كوټه]] {{ż}} (kotta)
+* pendżabski: (1.1) [[ਘਰ]] {{m}} (ghar)
+* perski: (1.1) [[خانه]] (khāneh)
+* polski język migowy: {{PJM-ukryj| (1.1) {{PJM|dom}} {{,}} {{PJM|do domu, w domu, dom}} (także: ''w domu, do domu'')}}
+* portugalski: (1.1) [[casa]] {{ż}}; (1.2) [[casa]] {{ż}}, [[lar]] {{m}}, [[residência]] {{ż}}; (1.3) [[casa]] {{ż}}
+* rosyjski: (1.1) [[дом]] {{m}}; (1.2) [[дом]] {{m}}; (1.4) [[род]] {{m}}, [[семья]] {{ż}}, [[династия]] {{ż}}
+* rumuński: (1.1) [[casă]] {{ż}}
+* samoański: (1.1) [[fale]]
+* sanskryt: (1.1) [[वास्तु]] {{n}}
+* serbski: (1.1) [[кућа]] {{ż}} (kuća), [[дом]] {{m}}; (1.2) [[дом]] {{m}}
+* shona: (1.1) [[imba]]
+* sindhi: (1.1) [[گھر]] {{m}} (gharu)
+* skolt: (1.1) [[põrtt]]
+* slovio: (1.1) [[domo]] (домо)
+* słowacki: (1.1) [[dom]] {{m}}
+* słoweński: (1.1) [[hiša]] {{ż}}
+* somalijski: (1.1) [[guri]]
+* sotho: (1.1) [[ntlo]]
+* staroangielski: (1.1) [[hus|hūs]] {{n}}, [[hof]] {{n}}
+* staro-cerkiewno-słowiański: (1.1) [[домъ]] / [[ⰴⱁⰿⱏ]] {{m}} (domŭ)
+* staroegipski: (1.1) [[Plik:Egyptian-per.PNG|20px|link=pr]]
+* starofrancuski: (1.1) [[meson]] {{ż}}
+* starogrecki: (1.1) [[οἶκος]] {{m}} (oîkos), [[οἰκία]] {{ż}} (oikía)
+* staronordyjski: (1.1) [[hús]] {{n}}
+* starosaksoński: (1.1) [[hus|hūs]] {{n}}
+* suahili: (1.1) [[nyumba]]; (1.2) [[nyumba]]
+* sumeryjski: (1.1) [[𒂍]]
+* sundajski: (1.1) [[imah]]
+* syngaleski: (1.1) [[ගෙය]] (geya)
+* szkocki: (1.1) [[hoose]], [[house]], [[hoos]], [[hus]]
+* szkocki gaelicki: (1.1) [[taigh]] {{m}}
+* szwedzki: (1.1) [[hus]] {{n}} (1.2) [[hem]] {{n}}
+* tadżycki: (1.1) [[хона]] (xona)
+* tagalski: (1.1) [[bahay]], [[tahanan]]
+* tahitański: (1.1) [[fare]]
+* tajski: (1.1) [[บ้าน]] (b̂ān), [[เรือน]] (reụ̄xn)
+* tamazight: (1.1) [[ⵜⵉⴳⵎⵎⵉ]] {{ż}} (tigmmi)
+* tamilski: (1.1) [[வீடு]] (vīṭu)
+* taos: (1.1) [[thə́na]]
+* telugu: (1.1) [[ఇల్లు]] (illu)
+* tetum: (1.1) [[uma]]
+* toki pona: (1.1) [[tomo]]
+* tok pisin: (1.1) [[haus]]
+* tswana: (1.1) [[ntlo]]
+* turecki: (1.1) [[ev]]
+* turkmeński: (1.1) [[öý]]
+* tuvalu: (1.1) [[fale]]
+* tybetański: (1.1) [[ཁང༌]]
+* udmurcki: (1.1) [[корка]] (korka)
+* ugarycki: (1.1) [[𐎁𐎚]] (bt)
+* ukraiński: (1.1) [[дім]] {{m}} (dim); (1.2) [[дім]] {{m}} (dim); (1.3) [[будинок]] {{m}}
+* urdu: (1.1) [[گھر]] {{m}} (ghar)
+* uzbecki: (1.1) [[uy]], [[hovli]]
+* volapük: (1.1) [[dom]]
+* walijski: (1.1) [[tŷ]] {{m}}
+* waloński: (1.1) [[måjhon]] {{m}}
+* warajski: (1.1) [[balay]]
+* wenecki: (1.1) [[caxa]] {{ż}}
+* wepski: (1.1) [[pert]]
+* węgierski: (1.1) [[ház]]
+* wietnamski: (1.1) [[nhà]]
+* wilamowski: (1.1) [[hoüz]] {{n}}; (1.2) [[haom]]
+* włoski: (1.1) [[casa]] {{ż}}; (1.4) [[casata]] {{ż}}
+* wolof: (1.1) [[kër]]; (1.2) [[kër]]
+* zhuang: (1.1) [[ranz]]
+* zulu: (1.1) [[indlu]]
+{{źródła}}
+<references />
+
+== dom ({{język dolnołużycki}}) ==
+[[Plik:Wittenbach Tobel Kronbühl - panoramio - Beat Koller (2).jpg|thumb|dom (1.1)]]
+[[Plik:Pisa-duomo01 adjusted.jpg|thumb|dom (1.2)]]
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) [[dom]]
+: (1.2) [[katedra]]
+{{odmiana}} {{lp}} dom, ~a, ~oju, ~, ~om, ~je; {{du}} ~a, ~owo, ~owa, ~a, ~oma, ~oma; {{lm}} ~y, ~ow, ~am, ~y, ~ami, ~ach
+{{przykłady}}
+: (1.1) ''[[wón|Wón]] [[byś|jo]] [[wóna|jej]] [[dom]] [[wugotowaś|wugótował]].'' → [[on|On]] [[zapisać|zapisał]] [[ona|jej]] '''[[dom]]''' [[w]] [[testament|testamencie]].
+{{składnia}}
+{{kolokacje}}
+: (1.1) ''[[dom za starych luźi]]'' → [[dom starców]]
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{przysł}} [[doma]], [[domoj]]
+{{frazeologia}}
+{{etymologia}}
+: {{etym|niem|Dom}}
+{{uwagi}}
+{{źródła}}
+
+== dom ({{esperanto (morfem)}}) ==
+{{wymowa}}
+{{znaczenia}}
+''{{morfem|eo}}''
+: (1.1) [[dom]] ''([[budynek]])''
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pochodne}}
+: {{rzecz}} [[domo]], [[domaĉo]], [[domano]], [[domanaro]], [[domego]], [[dometo]], [[bandomo]], [[ĉasdomo]], [[loĝdomo]], [[pundomo]], [[ruldomo]], [[somerdomo]], [[stacidomo]], [[urbodomo]], [[dombloko]], [[domdio]], [[dompasero]], [[domvitro]]
+: {{przym}} [[doma]], [[pundoma]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: {{morfem oficjalny|fundamenta|BRO=3}}
+: {{por|hejm}}
+{{źródła}}
+
+== dom ({{język górnołużycki}}) ==
+[[Plik:Wittenbach Tobel Kronbühl - panoramio - Beat Koller (2).jpg|thumb|dom (1.1)]]
+[[Plik:Pisa-duomo01 adjusted.jpg|thumb|dom (1.2)]]
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) [[dom]]
+: (1.2) [[katedra]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== dom ({{język norweski (bokmål)}}) ==
+{{wymowa}}
+: {{audio|LL-Q9043 (nor)-Telaneo-dom.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) [[osąd]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== dom ({{język portugalski}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) [[prezent]]
+: (1.2) [[talent]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== dom ({{slovio}}) ==
+[[Plik:Wittenbach Tobel Kronbühl - panoramio - Beat Koller (2).jpg|thumb|dom (1.1)]]
+{{ortografie}} дом
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) [[dom]]
+{{odmiana}}
+{{przykłady}}
+: (1.1) ''[[oni|Oni]] [[kupit|kupili]] [[starju]] [[dom]] [[vo]] [[malgrod]].'' → [[oni|Oni]] [[kupić|kupili]] [[stary]] '''[[dom]]''' [[na]] [[wieś|wsi]].
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.1) [[domo]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{czas}} [[domovit]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== dom ({{język słowacki}}) ==
+[[Plik:Wittenbach Tobel Kronbühl - panoramio - Beat Koller (2).jpg|thumb|dom (1.1)]]
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski nieżywotny''
+: (1.1) {{bud}} [[dom]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[rodinný]] / [[nájomný]] / [[družstevný]] dom • [[stavať]] dom • [[strecha]] / [[vlastník]] domu
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[domáci]] {{m}}, [[domáca]] {{ż}}, [[domácnosť]] {{ż}}
+:: {{zdrobn}} [[domček]] {{m}}
+: {{przym}} [[domový]], [[domáci]], [[domácky]]
+: {{przysł}} [[doma]], [[domácky]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: (1.1) zobacz też: [[Indeks:Słowacki - Budynki i pomieszczenia]]
+{{źródła}}
+
+== dom ({{język słoweński}}) ==
+[[Plik:Wittenbach Tobel Kronbühl - panoramio - Beat Koller (2).jpg|thumb|dom (1.1)]]
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) [[dom]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{przym}} [[domač]], [[domačinski]], [[domačen]]
+: {{rzecz}} [[domačica]] {{ż}}, [[domačin]] {{m}}, [[domačinka]] {{ż}}, [[udomačenje]] {{n}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: (1.1) zobacz też: [[Indeks:Słoweński - Podstawowe rzeczowniki]]
+{{źródła}}
+
+== dom ({{język szwedzki}}) ==
+{{wymowa}} {{audio|Sv-dom.ogg}}
+{{znaczenia}}
+''zaimek osobowy''
+: (1.1) {{pot}} [[oni]], [[one]]
+: (1.2) {{pot}} ''celownik i biernik 3.'' {{os}} {{lm}}
+''rzeczownik, rodzaj wspólny''
+: (2.1) [[wyrok]]
+{{odmiana}}
+: (2.1) en dom, domen, domar, domarna
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+: (2.1) [[salomonisk dom]]
+{{etymologia}}
+{{uwagi}}
+: (1.1) forma [[de#sv|de]]; (1.2) forma [[dem]]
+{{źródła}}
+
+== dom ({{volapük}}) ==
+[[Plik:Wittenbach Tobel Kronbühl - panoramio - Beat Koller (2).jpg|thumb|dom (1.1)]]
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) [[dom]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+: {{importEnWikt|volapük}}

@@ -1,0 +1,36 @@
+{{podobne|Viia|vía}}
+== via ({{język polski}}) ==
+{{wymowa}}
+: {{ortograficzny|w-ia}}, {{IPA3|ˈvʲi<sup>j</sup>a}}, {{AS3|vʹ'''i'''<sup>i ̯</sup>a}}, {{objaśnienie wymowy|ZM|JSAM}}
+: {{audio|LL-Q809 (pol)-Olaf-via.wav}}
+{{znaczenia}}
+''przyimek''
+: (1.1) ''…służący do określenia miejscowości, przez którą przebiega trasa podróży lub transportu''
+''rzeczownik, rodzaj żeński''
+: (2.1) [[droga]] ''w wyrażeniach typu'' [[via crucis]], [[via illuminativa]], [[via purgativa]]
+{{odmiana}}
+: (1.1) {{nieodm}}
+: (2.1) {{nieodm-rzeczownik-polski}}
+{{przykłady}}
+: (1.1) ''[[przyjechać|Przyjechałyśmy]] [[do]] [[Katowice|Katowic]] [[via]] [[Mikołów]].''
+{{składnia}}
+: (1.1) via + {{M}}
+{{kolokacje}}
+: (2.1) [[via crucis]] • [[via illuminativa]] • [[via purgativa]]
+{{synonimy}}
+: (1.1) [[przez]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+: {{etym|łac|via}} → [[droga]]
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[via]]
+* niemiecki: (1.1) [[über]]
+* rosyjski: (1.1) [[через]]
+{{źródła}}

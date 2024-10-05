@@ -1,0 +1,43 @@
+== kororczyk ({{język polski}}) ==
+{{wymowa}} {{IPA3|kɔˈrɔrʧ̑ɨk}}, {{AS3|kor'''o'''rčyk}} {{audio|Pl-kororczyk.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskoosobowy''
+: (1.1) [[mieszkaniec]] [[Koror]]u<ref name=npś>{{NPŚ2007|strony=33}}</ref>
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-polski
+|Mianownik lp = kororczyk
+|Dopełniacz lp = kororczyka
+|Celownik lp = kororczykowi
+|Biernik lp = kororczyka
+|Narzędnik lp = kororczykiem
+|Miejscownik lp = kororczyku
+|Wołacz lp = kororczyku
+|Mianownik lm = kororczycy<ref name=npś/>
+|Dopełniacz lm = kororczyków
+|Celownik lm = kororczykom
+|Biernik lm = kororczyków
+|Narzędnik lm = kororczykami
+|Miejscownik lm = kororczykach
+|Wołacz lm = kororczycy
+}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[Koror]] {{m}}
+:: {{fż}} [[kororka]] {{ż}}
+: {{przym}} [[kororski]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{tłumaczenia}}
+* baskijski: (1.1) [[korortar]]
+* słowacki: (1.1) [[Kororčan]] {{m}}
+{{źródła}}
+<references/>

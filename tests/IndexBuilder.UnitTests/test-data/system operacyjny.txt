@@ -1,0 +1,62 @@
+== [[system]] [[operacyjny]] ({{język polski}}) ==
+{{wymowa}}
+: {{IPA3|ˈsɨstɛ̃m ˌɔpɛraˈʦ̑ɨjnɨ}}, {{AS3|s'''y'''stẽm '''o'''perac'''y'''i ̯ny}}, {{objaśnienie wymowy|NAZAL|AKCP}}
+: {{audio|LL-Q809 (pol)-Poemat-system operacyjny.wav}}
+{{znaczenia}}
+''fraza rzeczownikowa, rodzaj męskorzeczowy''
+: (1.1) {{inform}} [[bardzo|najbardziej]] [[podstawowy|podstawowe]] [[oprogramowanie]] [[komputer]]a [[umożliwiać|umożliwiające]] [[zarządzanie]] [[zasób|zasobami]], [[sprzęt]]em [[oraz]] [[komunikacja|komunikację]] [[z]] [[użytkownik]]iem; {{wikipedia}}
+{{odmiana}}
+: (1.1) {{zw zg}}; {{odmiana-rzeczownik-polski
+|Mianownik lp = system operacyjny
+|Dopełniacz lp = systemu operacyjnego
+|Celownik lp = systemowi operacyjnemu
+|Biernik lp = system operacyjny
+|Narzędnik lp = systemem operacyjnym
+|Miejscownik lp = systemie operacyjnym
+|Wołacz lp = systemie operacyjny
+|Mianownik lm = systemy operacyjne
+|Dopełniacz lm = systemów operacyjnych
+|Celownik lm = systemom operacyjnym
+|Biernik lm = systemy operacyjne
+|Narzędnik lm = systemami operacyjnymi
+|Miejscownik lm = systemach operacyjnych
+|Wołacz lm = systemy operacyjne
+}}
+{{przykłady}}
+: (1.1) ''[[jaki|Jakiego]] [[system operacyjny|systemu operacyjnego]] [[używać|używasz]]?''
+{{składnia}}
+{{kolokacje}}
+: (1.1) [[używać]] systemu operacyjnego • [[instalować]] / [[zmieniać]] system operacyjny • [[migrować]] [[na]] [[inny]] system operacyjny
+{{synonimy}}
+: (1.1) ''skrót'' [[OS]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+: kalka z {{etym|ang|operating system}}
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[operating system]]
+* arabski: (1.1) [[نظام تشغيل]]
+* baskijski: (1.1) [[sistema eragile]]
+* białoruski: (1.1) [[аперацыйная сістэма]] {{ż}}
+* czeski: (1.1) [[operační systém]]
+* duński: (1.1) [[styresystem]] {{n}}, [[operativsystem]] {{n}}
+* esperanto: (1.1) [[operaciumo]], [[operacia sistemo]], [[operaciada sistemo]], [[mastruma sistemo]]
+* fiński: (1.1) [[käyttöjärjestelmä]]
+* francuski: (1.1) [[système d'exploitation]]
+* hiszpański: (1.1) [[sistema operativo]] {{m}}
+* kaszubski: (1.1) [[òperacjowô systema]]
+* niderlandzki: (1.1) [[besturingssysteem]]
+* niemiecki: (1.1) [[Betriebssystem]] {{n}}
+* nowogrecki: (1.1) [[λειτουργικό σύστημα]] {{n}}
+* rosyjski: (1.1) [[операционная система|операцио́нная систе́ма]] {{ż}}
+* szwedzki: (1.1) [[operativsystem]]
+* ukraiński: (1.1) [[операційна система]] {{ż}}
+* węgierski: (1.1) [[operációs rendszer]]
+* włoski: (1.1) [[sistema operativo]] {{m}}
+{{źródła}}

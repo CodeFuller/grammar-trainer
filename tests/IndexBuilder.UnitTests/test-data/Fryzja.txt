@@ -1,0 +1,49 @@
+== Fryzja ({{język polski}}) ==
+[[Plik:Friesland region.png|thumb|[[położenie]] Fryzji (1.1)]]
+[[Plik:Friesland in the Netherlands.svg|thumb|Fryzja (1.2)]]
+{{wymowa}}
+: {{audio|LL-Q809 (pol)-Poemat-Fryzja.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński, nazwa własna''
+: (1.1) {{geogr}} {{hist}} [[kraina]] [[historyczny|historyczna]] [[w]] [[północno-zachodni]]ej [[Europa|Europie]], [[położyć|położona]] [[wzdłuż]] [[wybrzeże|wybrzeży]] [[Morze Północne|Morza Północnego]], [[obecnie]] [[w]] [[granica]]ch [[Niemcy|Niemiec]], [[Dania|Danii]] [[i]] [[Holandia|Holandii]]; {{wikipedia|Fryzja (kraina historyczna)}}
+: (1.2) {{geogr}} {{adm}} [[prowincja]] [[w]] [[północny|północnej]] [[Holandia|Holandii]]; {{wikipedia|Fryzja (prowincja)}}
+{{odmiana}}
+: (1.1-2) {{odmiana-rzeczownik-polski
+| Mianownik lp = Fryzja
+| Dopełniacz lp = Fryzji
+| Celownik lp = Fryzji
+| Biernik lp = Fryzję
+| Narzędnik lp = Fryzją
+| Miejscownik lp = Fryzji
+| Wołacz lp = Fryzjo
+| Mianownik lm = {{potencjalnie|Fryzje}}
+| Dopełniacz lm = {{potencjalnie|Fryzji}} / {{potencjalnie| {{przest}} Fryzyj}}
+| Celownik lm = {{potencjalnie|Fryzjom}}
+| Biernik lm = {{potencjalnie|Fryzje}}
+| Narzędnik lm = {{potencjalnie|Fryzjami}}
+| Miejscownik lm = {{potencjalnie|Fryzjach}}
+| Wołacz lm = {{potencjalnie|Fryzje}}
+}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[Fryzyjczyk]] {{mos}}, [[Fryzyjka]] {{ż}}, [[Fryz]] {{mos}}, [[fryz]] {{mzw}}, [[fryzyjskość]] {{ż}}, [[fryzyjski]] {{mrz}}
+: {{przym}} [[fryzyjski]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: {{zoblistę|Fryzja Wschodnia|Fryzja Zachodnia|Fryzja Północna}}
+{{tłumaczenia}}
+* angielski: (1.1) [[Friesland]]
+* fryzyjski: (1.1) [[Fryslân]]; (1.2) [[Fryslân]]
+* niderlandzki: (1.1) [[Friesland]]
+* niemiecki: (1.1) [[Friesland]]
+* słowacki: (1.1) [[Frízsko]]
+{{źródła}}

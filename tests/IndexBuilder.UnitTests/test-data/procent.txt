@@ -1,0 +1,122 @@
+== procent ({{język polski}}) ==
+{{litera|%|procent (2.3)}}
+{{wymowa}} {{IPA3|ˈprɔʦ̑ɛ̃nt}}, {{AS3|pr'''o'''cẽnt}}, {{objaśnienie wymowy|NAZAL}} {{audio|Pl-procent.ogg}}
+{{znaczenia}}
+''liczebnik ułamkowy''<ref name="GJ">{{cytuj stronę|url=http://grzegorz.jagodzinski.prv.pl/gram/pl/liczeb02.html#procent|tytuł=Tworzenie i składnia polskich liczebników|imię=Grzegorz|nazwisko=Jagodziński|data dostępu=8 października 2009}}</ref>
+: (1.1) {{mat}} [[setny|setna]] [[część]] [[całość|całości]]; {{wikipedia}}
+''rzeczownik, rodzaj męskorzeczowy''
+: (2.1) {{finans}} [[oprocentowanie]], [[odsetek|odsetki]], [[dochód]] [[od]] [[kapitał]]u
+: (2.2) [[blisko|bliżej]] [[nieokreślony]] [[ułamek]], [[część]]
+: (2.3) {{druk}} [[symbol]] procenta (1.1)
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-polski
+|Mianownik lp = procent
+|Dopełniacz lp = procentu / procenta<ref>w połączeniu z liczebnikiem ''jeden'', patrz {{USJPonline|hasło=procent}}</ref>
+|Celownik lp = procentowi
+|Biernik lp = procent
+|Narzędnik lp = procentem
+|Miejscownik lp = procencie
+|Wołacz lp = procencie
+|Mianownik lm = procent
+|Dopełniacz lm = procent
+|Celownik lm = procentom
+|Biernik lm = procent
+|Narzędnik lm = procentami
+|Miejscownik lm = procentach
+|Wołacz lm = procent
+}} lub {{nieodm-rzeczownik-polski}}
+: (2.1-3) {{odmiana-rzeczownik-polski
+|Mianownik lp = procent
+|Mianownik lm = procenty
+|Dopełniacz lp = procentu
+|Dopełniacz lm = procentów
+|Celownik lp = procentowi
+|Celownik lm = procentom
+|Biernik lp = procent
+|Biernik lm = procenty
+|Narzędnik lp = procentem
+|Narzędnik lm = procentami
+|Miejscownik lp = procencie
+|Miejscownik lm = procentach
+|Wołacz lp = procencie
+|Wołacz lm = procenty
+}}
+{{przykłady}}
+: (1.1) ''[[ile|Ile]] [[procent]] [[alkohol]]u [[być|jest]] [[w]] [[to|tym]] [[piwo|piwie]]?''
+: (1.1) ''[[dwadzieścia|Dwadzieścia]] [[procent]] [[uczeń|uczniów]] [[potrafić|potrafi]] [[czytać]] [[ze]] [[zrozumienie]]m''
+: (1.1) ''[[organizacja pozarządowa|Organizacje pozarządowe]] [[apelować|apelują]] [[do]] [[premier]]a, [[aby]] [[nie]] [[obcinać|obcinał]] [[oni|im]] [[wpływ]]ów [[z]] [[1]] [[procent]]a''
+: (2.1) ''[[kapitalizacja|Kapitalizacja]] [[odsetek]], [[czyli]] [[magia]] [[procent]]u [[składany|składanego]]'' (z Internetu)
+: (2.2) ''[[obliczanie|Obliczanie]] [[procent]]u [[dany|danej]] [[liczba|liczby]]''
+: (2.3) ''[[kiedyś|Kiedyś]] [[pisać|pisano]] [[procent]]y [[z]] [[kreska|kreską]] [[poziomy|poziomą]] [[a]] [[nie]] [[ukośny|ukośną]].''
+{{składnia}}
+: (1.1) {{licz}} + procent + {{D}}; orzeczenie w rodzaju męskim liczby pojedynczej dla związku ''[[jeden]] procent'' lub w rodzaju nijakim liczby pojedynczej dla innych liczebników; bez liczebnika nie występuje w tym znaczeniu<ref name="GJ"/>.
+{{kolokacje}}
+: (2.1) [[procent prosty]] • [[procent składany]] • [[pożyczać na procent]]
+{{synonimy}}
+: (1.1) [[%]], [[proc.]]
+: (2.1-2) [[odsetek]], [[odsetka]]
+: (2.3) [[%]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[oprocentowanie]] {{n}}, [[procentowość]] {{ż}}
+:: {{zdrobn}} [[procencik]] {{m}}
+: {{czas}} [[procentować]], [[oprocentować]], [[oprocentowywać]], [[zaprocentować]]
+: {{przym}} [[procentowy]]
+: {{przysł}} [[procentowo]]
+{{frazeologia}}
+: [[na sto procent]]
+{{etymologia}}
+: {{etym|niem|Prozent}}<ref name="swo" >{{SWOonline|id=22197}}</ref> być może<ref name="swo" /> z {{etym|płac}}<ref name="swo" /> lub {{etym|łac|pro|centum}} → [[według]] [[sto|stu]]<ref>{{DoroszewskiOnline|hasło=procent}}</ref><ref name="swo" />
+{{uwagi}}
+: (1.1) w {{C}} {{lp}} {{daw}} procentu
+: (1.1) w zestawieniu z liczebnikami ułamkowymi według norm językowych nieodmienny ({{np}} [[trzy]] [[i]] [[pół]] procent), choć powszechnie używa się formy „procenta” ({{np}} [[trzy]] [[i]] [[pół]] procenta)<ref name="GJ"/>
+: zobacz też {{PoradniaPWN|id=8067|hasło=procent, proc., %}}
+: {{zoblistę|procent|punkt procentowy|promil|punkt bazowy|pcm|ppm|ppb|ppt}}
+{{tłumaczenia}}
+* angielski: (1.1) [[per cent]], [[percent]]; (2.1) [[interest]]; (2.2) [[percentage]]; (2.3) [[per cent]], [[percent]]
+* arabski: (1.1) [[نسبة مئوية]]
+* azerski: (1.1) [[faiz]]
+* baskijski: (1.1) [[ehuneko]]
+* białoruski: (1.1) [[працэнт]] {{m}}; (2.1) [[працэнт]] {{m}}
+* bośniacki: (1.1) [[posto]]
+* bułgarski: (1.1) [[процент]] {{m}}; (2.1) [[процент]] {{m}}
+* chiński standardowy: (1.1) [[分]] (fēn), [[百分之一]] (bǎi fēn zhī yī); (2.1) [[百分率]] (bǎifēnlǜ); (2.2) [[分]] (fēn)
+* chorwacki: (1.1) [[posto]]
+* czeski: (1.1) [[procento]] {{n}}
+* duński: (1.1) [[procent]] {{w}}
+* esperanto: (1.1) [[procento]]
+* estoński: (1.1) [[protsent]]
+* fiński: (1.1) [[prosentti]]
+* francuski: (1.1) [[pourcent]] {{m}}
+* hebrajski: (1.1) [[אחוז]] {{m}} (akhuz)
+* hiszpański: (1.1) [[por ciento]] {{m}}; (2.1) [[porcentaje]] {{m}}
+* indonezyjski: (1.1) [[persen]]; (2.1) [[persentase]]
+* japoński: (1.1) [[パーセント]] (pāsento); (2.1) [[パーセンテージ]] (pāsentēji), [[割合]] ([[わりあい]], wariai)
+* jidysz: (1.1) [[פּראָצענט]] {{m}} (procent)
+* kataloński: (1.1) [[per cent]] {{m}}; (2.1) [[percentatge]] {{m}}
+* koreański: (1.1) [[퍼센트]] (p’ŏsent’ŭ); (2.1) [[비율]] (piyul), [[비례]] (piye)
+* litewski: (1.1) [[procentas]] {{m}}
+* łotewski: (1.1) [[procents]] {{m}}
+* niderlandzki: (1.1) [[procent]] {{n}}
+* niemiecki: (1.1) [[Prozent]] {{n}}
+* norweski (bokmål): (1.1) [[prosent]] {{m}}; (2.1) [[prosentdel]] {{m}}
+* nowogrecki: (1.1) [[ποσοστό]] {{n}}
+* polski język migowy: {{PJM-ukryj| (1.1) {{PJM|procent}}}}
+* portugalski: (1.1) [[por cento]] {{m}}; (2.1) [[percentagem]] {{m}}
+* rosyjski: (1.1) [[процент]] {{m}}
+* rumuński: (1.1) [[procent]] {{n}}
+* serbski: (1.1) [[постотак]] (postotak) {{m}}, [[проценат]] (procenat) {{m}}; (2.1) [[постотак]] (postotak) {{m}}; (2.2) [[постотак]] (postotak) {{m}}
+* słowacki: (1.1) [[percento]] {{n}}
+* słoweński: (1.1) [[odstotek]] {{m}}; (2.1) [[odstotek]] {{m}}
+* szwedzki: (1.1) [[procent]] {{w}}
+* turecki: (1.1) [[yüzde]]; (2.1) [[yüzde]]
+* ukraiński: (1.1) [[процент]] {{m}}
+* węgierski: (1.1) [[százalék]]; (2.1) [[százalék]]
+* wietnamski: (1.1) [[phần trăm]]; (2.1) [[tỷ lệ]]; (2.2) [[tỷ lệ]]
+* włoski: (1.1) [[per cento]] {{m}}; (2.1) [[percentuale]] {{ż}}; (2.2) [[percentuale]] {{ż}}
+{{źródła}}
+<references />

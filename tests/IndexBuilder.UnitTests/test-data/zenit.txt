@@ -1,0 +1,359 @@
+{{podobne|Zenit|ženiť}}
+== zenit ({{język polski}}) ==
+{{wymowa}}
+: {{IPA3|ˈzɛ̃ɲit}}, {{AS3|z'''ẽ'''ńit}}, {{objaśnienie wymowy|ZM|NAZAL}}
+: {{audio|LL-Q809 (pol)-Olaf-zenit.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskorzeczowy''
+: (1.1) {{astr}} [[wysoko|najwyżej]] [[kłaść|położony]] [[punkt]] [[na]] [[niebo|niebie]]; {{wikipedia|Zenit (astronomia)|zenit}}
+: (1.2) {{przen}} [[wysoki|najwyższy]] [[stopień]] [[nasilenie|nasilenia]] [[coś|czegoś]]
+{{odmiana}}
+: (1.1-2) {{odmiana-rzeczownik-polski
+|Mianownik lp = zenit
+|Dopełniacz lp = zenitu
+|Celownik lp = zenitowi
+|Biernik lp = zenit
+|Narzędnik lp = zenitem
+|Miejscownik lp = zenicie
+|Wołacz lp = zenicie
+|Mianownik lm =
+|Dopełniacz lm =
+|Celownik lm =
+|Biernik lm =
+|Narzędnik lm =
+|Miejscownik lm =
+|Wołacz lm =
+}}
+{{przykłady}}
+: (1.2) ''[[woźna|Woźna]] [[w]] [[nasz]]ym [[akademik]]u [[twierdzić|twierdzi]], [[że]] [[rozwydrzenie]] [[studentka|studentek]] [[sięgnąć|sięgnęło]] [[już]] [[zenit]]u.''
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.2) [[apogeum]], [[kulminacja]]
+{{antonimy}}
+: (1.1) [[nadir]]
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[zenitówka]] {{ż}}
+: {{przym}} [[zenitowy]], [[zenitalny]]
+{{frazeologia}}
+: [[osiągać zenit]] • [[sięgać zenitu]] • [[dochodzić do zenitu]]
+{{etymologia}} {{etym|ang|zenith}}, {{etym|franc|zénith}}<ref>{{USJPonline|hasło=zenit}}</ref>, z ''st.hiszp.'' [[zenit]] z błędu pisarskiego [[zemt]] z {{etym|arab|سمت}} (semt)<ref>{{SWOonline|id=29238}}</ref><ref>{{KopalińskiSWOonline|hasło=zenit}}</ref>
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[zenith]]
+* baskijski: (1.1) [[zenit]]
+* czeski: (1.1) [[zenit]] {{m}}, [[nadhlavník]] {{m}}
+* duński: (1.1) [[zenit]] {{n}}; (1.2) [[zenit]] {{n}}
+* esperanto: (1.1) [[zenito]]; (1.2) [[zenito]], [[apogeo]]
+* hiszpański: (1.1) [[cenit]] {{m}}, [[zenit]] {{m}}
+* ido: (1.1) [[zenito]]
+* interlingua: [[zenit]]
+* litewski: (1.1) [[zenitas]] {{m}}
+* niemiecki: (1.1) [[Zenit]] {{m}}
+* rosyjski: (1.1) [[зенит]] {{m}}; (1.2) [[зенит]] {{m}}, [[вершина]] {{ż}}
+* słowacki: (1.1) [[zenit]] {{m}}, [[nadhlavník]] {{m}}
+* szwedzki: (1.1) [[zenit]]; (1.2) [[zenit]]
+* ukraiński: (1.1) [[зеніт]] {{m}}; (1.2) [[зеніт]] {{m}}, [[вершина]] {{ż}}
+* węgierski: (1.1) [[zenit]]; (1.2) [[zenit]]
+* wilamowski: (1.1) [[zenit]] {{m}}; (1.2) [[zenit]] {{m}}
+* włoski: (1.1) [[zenit]] {{m}}; (1.2) [[zenit]] {{m}}
+{{źródła}}
+<references />
+
+== zenit ({{język baskijski}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{astr}} [[zenit]]<ref>{{Euskaltzaindia}}</ref>
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+<references />
+
+== zenit ({{język chorwacki}}) ==
+{{ortografie}}
+{{wymowa}}
+: {{IPA|zěniːt}}
+: {{dzielenie|ze|nit}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) {{astr}} [[zenit]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+: {{importEnWikt|chorwacki}}
+
+== zenit ({{język czeski}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski nieżywotny''
+: (1.1) {{astr}} [[zenit]]
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-czeski
+|Mianownik lp = zenit
+|Mianownik lm = zenity
+|Dopełniacz lp = zenitu
+|Dopełniacz lm = zenitů
+|Celownik lp = zenitu
+|Celownik lm = zenitům
+|Biernik lp = zenit
+|Biernik lm = zenity
+|Wołacz lp = zenite
+|Wołacz lm = zenity
+|Miejscownik lp = zenitu
+|Miejscownik lm = zenitech
+|Narzędnik lp = zenitem
+|Narzędnik lm = zenity
+}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== zenit ({{esperanto (morfem)}}) ==
+{{wymowa}}
+{{znaczenia}}
+''{{morfem|eo}}''
+: (1.1) [[zenit]], [[szczyt]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pochodne}}
+: {{rzecz}} [[zenito]]
+: {{przym}} [[zenita]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== zenit ({{interlingua}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) [[zenit]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{przym}} [[zenital]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== zenit ({{język niderlandzki}}) ==
+{{wymowa}}
+: {{IPA|zenɪt}}, {{audio|Nl-zenit.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj nijaki''
+: (1.1) {{astr}} [[zenit]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+: {{importEnWikt|niderlandzki}}
+
+== zenit ({{język rumuński}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj nijaki''
+: (1.1) {{astr}} [[zenit]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== zenit ({{język słowacki}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski nieżywotny''
+: (1.1) {{astr}} [[zenit]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.1) [[nadhlavník]]
+{{antonimy}}
+: (1.1) [[nadir]], [[podnožník]]
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== zenit ({{język szwedzki}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{astr}} [[zenit]]<ref name='s'>{{Malmgren2001|strony=1316}}</ref>
+: (1.2) {{przen}} [[zenit]], [[apogeum]]<ref name='s'/>
+{{odmiana}}
+: (1.1-2) {{nieodm}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+: (1.1) [[nadir]]
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+<references />
+
+== zenit ({{język węgierski}}) ==
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{astr}} [[zenit]]
+: (1.2) {{przen}} [[zenit]], [[apogeum]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: (1.1) zobacz też: [[Indeks:Węgierski - Astronomia]]
+{{źródła}}
+
+== zenit ({{język wilamowski}}) ==
+{{ortografie}}
+{{wymowa}}
+{{znaczenia}}
+: (1.1) {{astr}} [[zenit]]
+: (1.2) {{przen}} [[zenit]] ([[apogeum]], [[szczyt]])
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: (1.1) {{zoblistę|Indeks:Wilamowski - Astronomia}}
+{{źródła}}
+
+== zenit ({{język włoski}}) ==
+{{wymowa}}
+: {{IPA|ˈʣɛ.nit}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) {{astr}} [[zenit]]
+: (1.2) {{przen}} [[zenit]], [[apogeum]]
+{{odmiana}}
+: (1.1-2) {{nieodm}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.2) [[cima]], [[vetta]], [[vertice]], [[sommità]], [[culmine]], [[apice]], [[acme]], [[apogeo]]
+{{antonimy}}
+: (1.1) [[nadir]]
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{przym}} [[zenitale]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}

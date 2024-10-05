@@ -1,0 +1,65 @@
+== chlorek ({{język polski}}) ==
+[[Plik:Copper(I)-chloride-sample.jpg|thumb|chlorek (1.1) [[miedź|miedzi]]]]
+{{wymowa}} {{IPA3|ˈxlɔrɛk}}, {{AS3|χl'''o'''rek}} {{audio|Pl-chlorek.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskorzeczowy''
+: (1.1) {{chem}} [[sól]] [[kwas solny|kwasu solnego]]; {{wikipedia|chlorki}}
+{{odmiana}}
+: (1.1) {{blm}}, {{odmiana-rzeczownik-polski
+|Mianownik lp = chlorek
+|Dopełniacz lp = chlorku
+|Celownik lp = chlorkowi
+|Biernik lp = chlorek
+|Narzędnik lp = chlorkiem
+|Miejscownik lp = chlorku
+|Wołacz lp = chlorku
+}} ''lub'' {{odmiana-rzeczownik-polski
+|Mianownik lp = chlorek
+|Dopełniacz lp = chlorku
+|Celownik lp = chlorkowi
+|Biernik lp = chlorek
+|Narzędnik lp = chlorkiem
+|Miejscownik lp = chlorku
+|Wołacz lp = chlorku
+|Mianownik lm = chlorki
+|Dopełniacz lm = chlorków
+|Celownik lm = chlorkom
+|Biernik lm = chlorki
+|Narzędnik lm = chlorkami
+|Miejscownik lm = chlorkach
+|Wołacz lm = chlorki
+}}
+{{przykłady}}
+: (1.1) ''[[chlorek sodu|'''Chlorek''' sodu]] [[to]] [[po prostu]] [[sól]] [[kuchenny|kuchenna]].''
+{{składnia}}
+: (1.1) chlorek + {{D}}
+{{kolokacje}}
+: (1.1) chlorek [[sód|sodu]] / [[potas]]u / [[miedź|miedzi]] / …
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[chlor]] {{m}}, [[chloran]] {{m}}, [[chlorowiec]] {{m}}, [[chlorowanie]] {{n}}, [[Chloe]] {{ż}}
+: {{czas}} [[chlorować]] {{ndk}}
+: {{przym}} [[chlorowy]]
+: {{temsłow}} [[chloro-]]
+{{frazeologia}}
+{{etymologia}}
+: {{etymn|pol|chlor|-ek}}, który jest jedynym pierwiastkiem (poza wodorem) wchodzącym w skład kwasu solnego ([[H]][[Cl]])
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[chloride]]
+* baskijski: (1.1) [[kloruro]]
+* białoruski: (1.1) [[хларыд]] {{m}}
+* bułgarski: (1.1) [[хлорид]] {{m}}
+* duński: (1.1) [[klorid]] {{n}}
+* hiszpański: (1.1) [[cloruro]] {{m}}
+* interlingua: (1.1) [[chloruro]], [[chlorido]]
+* niemiecki: (1.1) [[Chlorid]] {{n}}
+* rosyjski: (1.1) [[хлорид]] {{m}}
+* szwedzki: (1.1) [[klorid]] {{w}}
+* węgierski: (1.1) [[klorid]]
+{{źródła}}

@@ -1,0 +1,45 @@
+== prasowalnia ({{język polski}}) ==
+{{wymowa}}
+: {{audio|LL-Q809 (pol)-Poemat-prasowalnia.wav}}
+{{znaczenia}}
+''rzeczownik, rodzaj żeński''
+: (1.1) {{techn}} [[pomieszczenie]], [[w]] [[który]]m [[prasować|prasuje]] [[się]] [[tkanina|tkaniny]], [[odzież]]<ref>{{SJPonline|id=2507900|hasło=prasowalnia}}</ref>
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-polski
+|Mianownik lp = prasowalnia
+|Mianownik lm = prasowalnie
+|Dopełniacz lp = prasowalni
+|Dopełniacz lm = prasowalni / {{char}} prasowalń<ref>{{SGJPonline|id=50391|haśło=prasowalnia}}</ref>
+|Celownik lp = prasowalni
+|Celownik lm = prasowalniom
+|Biernik lp = prasowalnię
+|Biernik lm = prasowalnie
+|Narzędnik lp = prasowalnią
+|Narzędnik lm = prasowalniami
+|Miejscownik lp = prasowalni
+|Miejscownik lm = prasowalniach
+|Wołacz lp = prasowalnio
+|Wołacz lm = prasowalnie
+|Forma depr =
+|Forma ndepr =
+}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[prasowanie]] {{n}}, [[prasownica]] {{ż}}, [[prasownictwo]] {{n}}, [[prasowacz]] {{mos}}, [[prasowaczka]] {{ż}}, [[prasowalność]] {{ż}}, [[prasa]] {{ż}}, [[prasówka]] {{ż}}, [[prasowarka]] {{ż}}, [[prasownia]] {{ż}}, [[prasowalnica]] {{ż}}, [[prasowanko]] {{n}}, [[doprasowanie]] {{n}}, [[doprasowywanie]] {{n}}, [[naprasowanie]] {{n}}, [[odprasowanie]] {{n}}, [[odprasowywanie]] {{n}}, [[poprasowanie]] {{n}}, [[przeprasowanie]] {{n}}, [[przeprasowywanie]] {{n}}, [[przyprasowanie]] {{n}}, [[przyprasowywanie]] {{n}}, [[rozprasowanie]] {{n}}, [[rozprasowywanie]] {{n}}, [[sprasowanie]] {{n}}, [[sprasowywanie]] {{n}}, [[uprasowanie]] {{n}}, [[wprasowanie]] {{n}}, [[wprasowywanie]] {{n}}, [[wyprasowanie]] {{n}}, [[wyprasowywanie]] {{n}}, [[zaprasowanie]] {{n}}, [[zaprasowywanie]] {{n}}
+: {{czas}} [[prasować]] {{ndk}}, [[doprasować]] {{dk}}, [[doprasowywać]] {{ndk}}, [[naprasować]] {{dk}}, [[odprasować]] {{dk}}, [[odprasowywać]] {{ndk}}, [[poprasować]] {{dk}}, [[przeprasować]] {{dk}}, [[przeprasowywać]] {{ndk}}, [[przyprasować]] {{dk}}, [[przyprasowywać]] {{ndk}}, [[rozprasować]] {{dk}}, [[rozprasowywać]] {{ndk}}, [[sprasować]] {{dk}}, [[sprasowywać]] {{ndk}}, [[uprasować]] {{dk}}, [[wprasować]] {{dk}}, [[wprasowywać]] {{ndk}}, [[wyprasować]] {{dk}}, [[wyprasowywać]] {{ndk}}, [[zaprasować]] {{dk}}, [[zaprasowywać]] {{ndk}}
+: {{przym}} [[prasowalniczy]], [[prasowniczy]], [[prasowalny]]
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{tłumaczenia}}
+* angielski: (1.1) [[iron]]ing [[room]]
+{{źródła}}
+<references />

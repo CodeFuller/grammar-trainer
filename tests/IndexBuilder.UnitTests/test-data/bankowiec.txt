@@ -1,0 +1,51 @@
+== bankowiec ({{język polski}}) ==
+{{wymowa}} {{audio|Pl-bankowiec.ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskoosobowy''
+: (1.1) [[pracownik]] [[bank]]u
+{{odmiana}}
+: (1.1) {{odmiana-rzeczownik-polski
+|Mianownik lp = bankowiec
+|Mianownik lm = bankowcy
+|Dopełniacz lp = bankowca
+|Dopełniacz lm = bankowców
+|Celownik lp = bankowcowi
+|Celownik lm = bankowcom
+|Biernik lp = bankowca
+|Biernik lm = bankowców
+|Narzędnik lp = bankowcem
+|Narzędnik lm = bankowcami
+|Miejscownik lp = bankowcu
+|Miejscownik lm = bankowcach
+|Wołacz lp = bankowcu / {{podn}} bankowcze
+|Wołacz lm = bankowcy
+|Forma depr = bankowce
+}}
+{{przykłady}}
+: (1.1) ''[[jeśli|Jeśli]] [[chcieć|chcesz]] [[być]] [[dobry]]m [[bankowiec|bankowcem]], [[musieć|musisz]] [[być]] [[zorientować|zorientowanym]] [[w]] [[nowy]]ch [[produkt]]ach [[bankowy]]ch.''
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[bankowość]] {{ż}}, [[bankierka]] {{ż}}, [[bank]] {{m}}, [[bankier]] {{m}}, [[bankierowa]] {{ż}}, [[bankierówna]] {{ż}}, [[bankierczyk]] {{m}}, [[bankierstwo]] {{n}}
+: {{przym}} [[bankowy]], [[bankierski]]
+{{frazeologia}}
+{{etymologia}}
+: {{etymn|pol|bank|-owiec}}
+{{uwagi}}
+: Wyraz powstał w XIX w.<ref>Wiera Zołotowa, ''Rzeczowniki osobowe z sufiksem -ec (-owiec) we współczesnym języku polskim'', „Poradnik Językowy” nr 9/1957, s. 397.</ref>
+{{tłumaczenia}}
+* angielski: (1.1) [[banker]]
+* arabski: (1.1) [[مصرفي]] {{m}}
+* baskijski: (1.1) [[bankari]]
+* esperanto: (1.1) [[bankisto]]
+* francuski: (1.1) [[banquier]] {{m}}
+* łaciński: (1.1) [[nummularius]] {{m}}
+* włoski: (1.1) [[bancario]] {{m}}
+{{źródła}}
+<references />

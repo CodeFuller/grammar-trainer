@@ -1,0 +1,188 @@
+== pomidor ({{język polski}}) ==
+[[Plik:Tomatoplants.jpg|thumb|pomidory (1.2)]]
+[[Plik:Pomidory - tomato.jpg|thumb|pomidory (1.3)]]
+{{wymowa}} {{audio|Pl-pomidor.ogg}}, {{IPA3|pɔ̃ˈmʲidɔr}}, {{AS3|põmʹ'''i'''dor}}, {{objaśnienie wymowy|ZM|NAZAL}}
+{{znaczenia}}
+''rzeczownik, rodzaj męskozwierzęcy lub męskorzeczowy''
+: (1.1) {{bot}} {{nazwa systematyczna|Lycopersicon|Mill.|ref=tak}}, [[sekcja]] [[roślina|roślin]] [[z]] [[rodzaj]]u [[psianka]]; {{wikipedia}}
+: (1.2) {{bot}} {{roln}} [[jednoroczny|jednoroczna]] [[roślina]] [[warzywny|warzywna]] [[z]] [[rodzaj]]u pomidorów (1.1), [[pochodzić|pochodząca]] [[z]] [[Ameryka Południowa|Ameryki Południowej]]
+: (1.3) {{kulin}} {{spoż}} [[owoc]] pomidora (1.2)
+: (1.4) [[zabawa]] [[u]] [[dziecko|dzieci]]: [[na]] [[zadawać|zadane]] [[pytanie|pytania]] [[trzeba]] [[odpowiadać]] [[wyłącznie]] „pomidor”; {{wikipedia|pomidor (gra)}}
+: (1.5) {{uczn}} [[osoba]], [[który|która]] [[zaczerwienić się|się zaczerwieniła]]<ref>Monika Rzeszutek, ''Rośliny w szkolnym ogrodzie, czyli nazwy botaniczne w socjolekcie uczniowskim'', „Acta Universitatis Wratislaviensis” no 2282, ''Język a Kultura'', t. 16, Wrocław 2001, s. 227.</ref>
+: (1.6) {{więz}} [[nos]]<ref>Jolanta Ignatowicz-Skowrońska, ''Motywy roślinne w slangu młodzieżowym i żargonie przestępczym'', „Acta Universitatis Wratislaviensis” no 2282, ''Język a Kultura'', t. 16, Wrocław 2001, s. 240.</ref>
+{{odmiana}}
+: (1.1-6) {{odmiana-rzeczownik-polski
+|Mianownik lp = pomidor
+|Dopełniacz lp = pomidora
+|Celownik lp = pomidorowi
+|Biernik lp = pomidor / {{pot}} pomidora<ref>{{SGJPonline|id=13726}}</ref>
+|Narzędnik lp = pomidorem
+|Miejscownik lp = pomidorze
+|Wołacz lp = pomidorze
+|Mianownik lm = pomidory
+|Dopełniacz lm = pomidorów
+|Celownik lm = pomidorom
+|Biernik lm = pomidory
+|Narzędnik lm = pomidorami
+|Miejscownik lm = pomidorach
+|Wołacz lm = pomidory
+}}
+{{przykłady}}
+: (1.2) ''[[w|W]] [[ogród|ogrodzie]] [[posadzić|posadziłem]] [[pomidor]]y, [[marchew]] [[i]] [[koper]].''
+: (1.3) ''[[na|Na]] [[kolacja|kolację]] [[robić|zrobiłam]] [[sałatka|sałatkę]] [[z]] [[pomidor]]ów.''
+{{składnia}}
+{{kolokacje}}
+: (1.3) [[przecier]] / [[sok]] / [[sałatka]] z pomidorów • [[czerwony|czerwone]] / [[zielony|zielone]] / [[żółty|żółte]] pomidory • pomidory [[malinowy|malinowe]] / [[koktajlowy|koktajlowe]] / [[smażyć|smażone]]
+{{synonimy}}
+: (1.2) {{gw-pl|Górny Śląsk|[[tomata]], [[tómata]], [[tółmata]]}}
+: (1.3) {{gw-pl|Górny Śląsk|[[tomata]], [[tómata]], [[tółmata]]}}
+{{antonimy}}
+{{hiperonimy}}
+: (1.1) [[sekcja]]
+: (1.2) [[roślina]]
+: (1.3) [[jagoda]]
+: (1.4) [[zabawa]]
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+: {{rzecz}} [[pomidorowa]] {{ż}}, [[pomidorówka]] {{ż}}
+:: {{zdrobn}} [[pomidorek]] {{mrz}}
+: {{przym}} [[pomidorowy]]
+: {{przysł}} [[pomidorowo]]
+{{frazeologia}}
+: [[czerwony jak pomidor]]
+{{etymologia}}
+: (1.1-3) {{etym|wł|pomodoro}}<ref>{{USJPonline|hasło=pomidor}}</ref> ({{także}} {{etym|włoski|pomidoro}}) < {{etym|włoski|pomo|di|oro}} → {{dosł}} [[jabłko]] ([[owoc]]) [[ze]] [[złoto|złota]]<ref>{{Borejszo2007|strony=71‒72, 76, 163}}</ref><ref>{{Mańczak2017}}</ref>
+: (1.4) ''od'' (1.1-3)
+{{uwagi}}
+: {{wikicytaty}}
+{{tłumaczenia}}
+* amharski: (1.1) [[ቲማቲም]]; (1.3) [[ቲማቲም]]
+* angielski: (1.1) [[tomato]]; (1.3) [[tomato]]
+* arabski: (1.1-2) [[طماطم]], [[بندورة]]
+* baskijski: (1.1) [[tomate]]; (1.3) [[tomate]]
+* białoruski: (1.1) [[памідор]] {{m}}; (1.2) [[памідор]] {{m}}; (1.3) [[памідор]] {{m}}
+* bretoński: (1.3) [[tomatez]] ''rzeczownik zbiorowy'' [[tomatezenn]] {{ż}}
+* cebuano: (1.3) [[tamatis]]
+* chiński standardowy: (1.3) {{puprtrad|[[番茄]]}} (fānqié), {{pupr|[[西红柿]]}} / {{ptrad|[[西紅柿]]}} (xīhóngshì)
+* chorwacki: (1.1) [[rajčica]] {{ż}}; (1.3) [[rajčica]] {{ż}}
+* czeski: (1.1) [[rajče]] {{n}}; (1.3) [[rajče]] {{n}}
+* dolnołużycki: (1.1) [[tomata]] {{ż}}
+* duński: (1.3) [[tomat]] {{w}}
+* esperanto: (1.3) [[tomato]]
+* fiński: (1.3) [[tomaatti]]
+* francuski: (1.1) [[tomate]] {{ż}}; (1.3) [[tomate]] {{ż}}
+* grenlandzki: (1.3) [[tomati]]
+* gudźarati: (1.1) [[ટમેટું]]
+* hiszpański: (1.1) [[tomatera]] {{ż}}; (1.3) [[tomate]] {{m}}
+* indonezyjski: (1.3) [[tomat]]
+* interlingua: (1.3) [[tomate]]
+* islandzki: (1.1) [[tómatur]] {{m}}
+* japoński: (1.3) [[トマト]] (tomato)
+* jidysz: (1.3) [[פּאָמידאָר]] {{m}} (pomidor), [[טאָמאַט]] {{m}} (tomat)
+* kaszubski: (1.3) [[pòmidora]] {{ż}}
+* kataloński: (1.1) [[tomaquera]] {{ż}}; (1.3) [[tomàquet]] {{m}}
+* khmerski: (1.3) [[ប៉េងប៉ោះ]]
+* maltański: (1.3) [[tadam]] {{m}}
+* nahuatl: (1.3) [[xitomatl]]
+* niderlandzki: (1.3) [[tomaat]] {{ż}}
+* niemiecki: (1.3) [[Tomate]] {{ż}}; {{austr|[[Paradeiser]]}} {{m}}, {{austr|[[Paradeisapfel]]}} {{m}}
+* norweski (bokmål): (1.3) [[tomat]] {{m}}
+* nowogrecki: (1.1) [[ντοματιά]] {{ż}}; (1.3) [[ντομάτα]] {{ż}}
+* pendżabski: (1.1) [[ਟਮਾਟਰ]] {{m}}; (1.3) [[ਟਮਾਟਰ]] {{m}}
+* portugalski: (1.1) [[tomateiro]] {{m}}; (1.3) [[tomate]] {{m}}
+* rosyjski: (1.3) [[помидор]] {{m}}
+* rumuński: (1.3) [[pătlăgea roșie]] {{ż}}, [[tomată]] {{ż}}
+* shona: (1.2) [[domasi]]; (1.3) [[domasi]]
+* slovio: (1.3) [[tomat]] (томат)
+* suahili: (1.3) [[nyanya]]
+* szwedzki: (1.3) [[tomat]] {{w}}
+* turecki: (1.3) [[domates]]
+* ukraiński: (1.1) [[помідор]] {{m}}; (1.3) [[томат]] {{m}}, [[помідор]] {{m}}
+* węgierski: (1.3) [[paradicsom]]
+* wilamowski: (1.1) [[pȧrȧdȧjsopuł]] {{m}}, [[pomidor]] {{m}}; (1.2) [[pȧrȧdȧjsopuł]] {{m}}, [[pomidor]] {{m}}; (1.3) [[pȧrȧdȧjsopuł]] {{m}}, [[pomidor]] {{m}}
+* włoski: (1.1) [[pomodoro]] {{m}}; (1.3) [[pomodoro]] {{m}}
+{{źródła}}
+<references />
+
+== pomidor ({{język azerski}}) ==
+[[Plik:Pomidory - tomato.jpg|thumb|pomidorlar (1.1)]]
+{{ortografie}}
+: پوميدور
+{{wymowa}}
+: {{dzielenie|po|mi|dor}}
+: {{audio|LL-Q9292 (aze)-Azerbaijani audiorecordings-pomidor.wav}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) {{bot}} [[pomidor]]
+{{odmiana}}
+: (1.1) {{lp}} pomidor, pomidorun, pomidora, pomidoru, pomidorda, pomidordan; {{lm}} pomidorlar, pomidorların, pomidorlara, pomidorları, pomidorlarda, pomidorlardan
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== pomidor ({{język turkmeński}}) ==
+[[Plik:Pomidory - tomato.jpg|thumb|pomidor (1.1)]]
+{{ortografie}}
+{{wymowa}}
+{{znaczenia}}
+''rzeczownik''
+: (1.1) [[pomidor]]
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+{{źródła}}
+
+== pomidor ({{język wilamowski}}) ==
+[[Plik:Tomatoplants.jpg|thumb|pomidor (1.2)]]
+[[Plik:Pomidory - tomato.jpg|thumb|pomidor (1.3)]]
+{{ortografie}}
+: [[pȧrȧdȧjsopuł]]
+{{wymowa}}
+: {{audio|Wym-pomidor (wersja Józefa Gary).ogg}}
+{{znaczenia}}
+''rzeczownik, rodzaj męski''
+: (1.1) {{bot}} {{nazwa systematyczna|Lycopersicon|ref=tak}}, [[pomidor]]<ref name="Gara2003">{{Gara2003|strony=}}</ref>
+: (1.2) {{pot}} {{bot}} {{roln}} {{nazwa systematyczna|Solanum lycopersicum|L.|ref=tak}}, [[pomidor zwyczajny]]<ref name="Gara2003"/>
+: (1.3) {{kulin}} {{spoż}} [[owoc]] [[pomidor zwyczajny|pomidora zwyczajnego]]<ref name="Gara2003"/>
+{{odmiana}}
+{{przykłady}}
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: (1.1-2) zobacz też: [[Indeks:Wilamowski - Rośliny]]
+: (1.3) zobacz też: [[Indeks:Wilamowski - Jedzenie]]
+{{źródła}}
+<references />
