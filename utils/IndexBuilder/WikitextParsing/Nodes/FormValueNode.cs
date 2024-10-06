@@ -31,6 +31,7 @@ namespace IndexBuilder.WikitextParsing.Nodes
 			{ "przen", DeclensionFormFlags.Figuratively },
 			{ "archit", DeclensionFormFlags.Architectural },
 			{ "także", DeclensionFormFlags.Also },
+			{ "iron", DeclensionFormFlags.Ironical },
 			{ "specific-preposition", DeclensionFormFlags.SpecificPreposition },
 		};
 

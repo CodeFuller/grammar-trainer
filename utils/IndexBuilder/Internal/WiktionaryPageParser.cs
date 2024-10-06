@@ -24,7 +24,7 @@ namespace IndexBuilder.Internal
 
 		private static readonly Regex DictionaryTitleRegex = new(@"^\|słownik=(Słownik .+)$", RegexOptions.Compiled);
 
-		private static readonly Regex NounDeclensionSectionStartRegex = new(@" {{odmiana-rzeczownik-polski\s*", RegexOptions.Compiled);
+		private static readonly Regex NounDeclensionSectionStartRegex = new(@"{{odmiana-rzeczownik-polski\s*", RegexOptions.Compiled);
 
 		private static readonly Regex IndeclinableNounRegex = new("{{nieodm-rzeczownik-polski}}", RegexOptions.Compiled);
 
