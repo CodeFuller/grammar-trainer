@@ -10,7 +10,7 @@ using static IndexBuilder.UnitTests.Helpers.NounDeclensionHelpers;
 namespace IndexBuilder.UnitTests.WikitextParsing
 {
 	[TestClass]
-	public class PidginFormValuesParserTests
+	public class WikitextParserTests
 	{
 		[TestMethod]
 		public void ParseFormValues_ForSingleFormValue_ReturnsCorrectFormValues()
@@ -18,7 +18,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -47,7 +47,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -70,7 +70,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -92,7 +92,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -114,7 +114,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -139,7 +139,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -161,7 +161,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -183,7 +183,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -205,7 +205,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -227,7 +227,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -249,7 +249,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -271,7 +271,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -293,7 +293,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -316,7 +316,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -339,7 +339,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -362,7 +362,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -389,7 +389,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 
@@ -415,7 +415,7 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 			// Arrange
 
 			var mocker = new AutoMocker();
-			var target = mocker.CreateInstance<PidginFormValuesParser>();
+			var target = mocker.CreateInstance<WikitextParser>();
 
 			// Act
 

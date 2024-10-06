@@ -1002,7 +1002,7 @@ namespace IndexBuilder.UnitTests.Internal
 
 		private static WiktionaryPageParser CreateTestTarget()
 		{
-			return new WiktionaryPageParser(new PidginFormValuesParser());
+			return new WiktionaryPageParser(new WikitextParser());
 		}
 	}
 }

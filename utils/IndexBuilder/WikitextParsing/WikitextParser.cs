@@ -18,7 +18,7 @@ namespace IndexBuilder.WikitextParsing
 	//   Preposition:               \w+
 	//   WordOrWikilink:            Word | "[[" Word "]]"
 	//   Word:                      [\w '’.!-]+
-	internal class PidginFormValuesParser : IFormValuesParser
+	internal class WikitextParser : IWikitextParser
 	{
 		private static readonly Parser<char, string> UnpairedReferenceTagParser = TokenParser(String("<ref ").Then(Any.SkipManyThen(String("/>"))));
 		private static readonly Parser<char, string> PairedReferenceTagParser = TokenParser(String("<ref").Then(Char('>').Or(Char(' '))).Then(Any.SkipManyThen(String("</ref>"))));

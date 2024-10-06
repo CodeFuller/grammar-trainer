@@ -14,7 +14,7 @@ namespace IndexBuilder
 		protected override void RegisterServices(IServiceCollection services, IConfiguration configuration)
 		{
 			services.AddSingleton<IWiktionaryPageParser, WiktionaryPageParser>();
-			services.AddSingleton<IFormValuesParser, PidginFormValuesParser>();
+			services.AddSingleton<IWikitextParser, WikitextParser>();
 
 			services.AddSingleton<IWordDefinitionsSerializer, JsonWordDefinitionsSerializer>();
 

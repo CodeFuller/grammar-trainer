@@ -44,11 +44,11 @@ namespace IndexBuilder.Internal
 			{ "Wołacz", GrammaticalCase.Vocative },
 		};
 
-		private readonly IFormValuesParser formValuesParser;
+		private readonly IWikitextParser wikitextParser;
 
-		public WiktionaryPageParser(IFormValuesParser formValuesParser)
+		public WiktionaryPageParser(IWikitextParser wikitextParser)
 		{
-			this.formValuesParser = formValuesParser ?? throw new ArgumentNullException(nameof(formValuesParser));
+			this.wikitextParser = wikitextParser ?? throw new ArgumentNullException(nameof(wikitextParser));
 		}
 
 		private sealed class CurrentWordContext
@@ -261,7 +261,7 @@ namespace IndexBuilder.Internal
 				{
 					Case = formCase,
 					Number = formNumber,
-					FormValues = formValuesParser.ParseFormValues(formText).ToList(),
+					FormValues = wikitextParser.ParseFormValues(formText).ToList(),
 				};
 
 				forms.Add(form);

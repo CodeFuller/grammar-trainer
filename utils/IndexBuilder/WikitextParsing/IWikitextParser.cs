@@ -3,7 +3,7 @@ using IndexBuilder.Model;
 
 namespace IndexBuilder.WikitextParsing
 {
-	internal interface IFormValuesParser
+	internal interface IWikitextParser
 	{
 		IEnumerable<NounDeclensionFormValue> ParseFormValues(string wikitext);
 	}
