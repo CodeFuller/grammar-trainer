@@ -1,0 +1,84 @@
+== [[republika|Republika]] [[czeski|Czeska]] ({{język polski}}) ==
+{{wymowa}}
+: {{audio|Pl-Republika Czeska.ogg}}, {{IPA3|rɛˈpublʲika ˈʧ̑ɛska}}, {{AS3|rep'''u'''blʹika č'''e'''ska}}, {{objaśnienie wymowy|ZM|AKC3}}
+{{znaczenia}}
+''fraza rzeczownikowa, rodzaj żeński, nazwa własna''
+: (1.1) {{geogr}} {{polit}} {{ofic}} {{zob|Czechy}} (''państwo'')
+{{odmiana}}
+: (1.1) {{zw zg}}, {{blm}}, {{odmiana-rzeczownik-polski
+|Mianownik lp = Republika Czeska
+|Dopełniacz lp = Republiki Czeskiej
+|Celownik lp = Republice Czeskiej
+|Biernik lp = Republikę Czeską
+|Narzędnik lp = Republiką Czeska
+|Miejscownik lp = Republice Czeskiej
+|Wołacz lp = Republiko Czeska
+|Mianownik lm =
+|Dopełniacz lm =
+|Celownik lm =
+|Biernik lm =
+|Narzędnik lm =
+|Miejscownik lm =
+|Wołacz lm =
+}}
+{{przykłady}}
+: (1.1) ''[[Republika Czeska]] [[być|jest]] [[kraj]]em [[europejski]]m.''
+{{składnia}}
+{{kolokacje}}
+{{synonimy}}
+: (1.1) [[Czechy]]; {{skr}} [[RCz]], [[RC]]
+{{antonimy}}
+{{hiperonimy}}
+{{hiponimy}}
+{{holonimy}}
+{{meronimy}}
+{{pokrewne}}
+{{frazeologia}}
+{{etymologia}}
+{{uwagi}}
+: (1.1) {{por|Czechy}}
+: (1.1) zobacz też: [[Indeks:Polski - Kraje i narodowości]]
+{{tłumaczenia}}
+* angielski: (1.1) [[Czech Republic]]
+* arabski: (1.1) [[الجمهورية التشيكية]]
+* baskijski: (1.1) [[Txekiar Errepublika]]
+* białoruski: (1.1) [[Чэшская Рэспубліка]] {{ż}}
+* białoruski (taraszkiewica): (1.1) [[Чэская Рэспубліка]] {{ż}}
+* bretoński: (1.1) [[Republik Tchek]]
+* bułgarski: (1.1) [[Чешка република]] {{ż}}
+* chiński standardowy: (1.1) [[捷克共和國]], [[捷克共和国]] (Jiékè gònghéguó)
+* chorwacki: (1.1) [[Češka Republika]] {{ż}}
+* czeski: (1.1) [[Česká republika]] {{ż}}
+* dolnołużycki: (1.1) [[Česka republika]] {{ż}}
+* esperanto: (1.1) [[Ĉeĥa Respubliko]]
+* fiński: (1.1) [[Tšekin tasavalta]]
+* francuski: (1.1) [[République tchèque]] {{ż}}
+* górnołużycki: (1.1) [[Čěska republika]] {{ż}}
+* hawajski: (1.1) [[Lepupalika ʻo Tieka]]
+* hiszpański: (1.1) [[República Checa]] {{ż}}
+* interlingua: (1.1) [[Republica Chec]]
+* japoński: (1.1) [[チェコ共和国]] (チェコきょうわこく, cheko-kyowakoku)
+* jidysz: (1.1) [[טשעכישע רעפּובליק]] {{ż}} (czechisze republik)
+* karpatorusiński: (1.1) [[Чеська Републіка]] {{ż}}
+* kaszubski: (1.1) [[Czeskô Repùblika]]
+* kataloński: (1.1) [[República Txeca]] {{ż}}
+* koreański: (1.1) [[체코 공화국]]
+* luksemburski: (1.1) [[Tschechesch Republik]]
+* łaciński: (1.1) [[Res publica Cecha]]
+* łotewski: (1.1) [[Čehijas Republika]] {{ż}}
+* niderlandzki: (1.1) [[Tsjechische Republiek]]
+* niemiecki: (1.1) [[Tschechische Republik]] {{ż}}
+* nowogrecki: (1.1) [[Δημοκρατία της Τσεχίας]] {{ż}}
+* portugalski: (1.1) [[República Checa]] {{ż}}, [[República Tcheca]] {{ż}}
+* prowansalski: (1.1) [[Republica Chèca]] {{ż}}
+* rosyjski: (1.1) [[Чешская Республика]] {{ż}}
+* rumuński: (1.1) [[Republica Cehă]] {{ż}}
+* serbski: (1.1) [[Чешка Република]] {{ż}}
+* słowacki: (1.1) [[Česká republika]] {{ż}}
+* słoweński: (1.1) [[Češka republika]] {{ż}}
+* szwedzki: (1.1) [[Tjeckiska Republiken]]
+* turecki: (1.1) [[Çek Cumhuriyeti]]
+* ukraiński: (1.1) [[Чеська Республіка]] {{ż}}
+* węgierski: (1.1) [[Cseh Köztársaság]]
+* włoski: (1.1) la [[Repubblica Ceca]] {{ż}}
+{{źródła}}

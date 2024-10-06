@@ -108,12 +108,19 @@ namespace IndexBuilder.Internal
 			}
 		}
 
-		private static bool TryParseWordTitle(string line, out (string Language, string Word) data)
+		private bool TryParseWordTitle(string line, out (string Language, string Word) data)
 		{
 			var match = LanguageSpecificTitleRegex.Match(line);
 			if (match.Success)
 			{
-				data = (Language: ExtractLanguageName(match.Groups[2].Value), Word: match.Groups[1].Value);
+				var language = ExtractLanguageName(match.Groups[2].Value);
+				var word = match.Groups[1].Value;
+				if (language == "polski")
+				{
+					word = wikitextParser.ParseWordFromTitle(word);
+				}
+
+				data = (Language: language, Word: word);
 				return true;
 			}
 

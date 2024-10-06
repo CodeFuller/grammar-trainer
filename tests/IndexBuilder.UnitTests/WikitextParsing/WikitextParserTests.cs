@@ -13,6 +13,91 @@ namespace IndexBuilder.UnitTests.WikitextParsing
 	public class WikitextParserTests
 	{
 		[TestMethod]
+		public void ParseWordFromTitle_ForPlainText_ReturnsSameText()
+		{
+			// Arrange
+
+			var mocker = new AutoMocker();
+			var target = mocker.CreateInstance<WikitextParser>();
+
+			// Act
+
+			var word = target.ParseWordFromTitle("cat and dog");
+
+			// Assert
+
+			word.Should().Be("cat and dog");
+		}
+
+		[TestMethod]
+		public void ParseWordFromTitle_ForWikilinkWithoutTitle_ReturnsCorrectWord()
+		{
+			// Arrange
+
+			var mocker = new AutoMocker();
+			var target = mocker.CreateInstance<WikitextParser>();
+
+			// Act
+
+			var word = target.ParseWordFromTitle("[[cat]] and [[dog]]");
+
+			// Assert
+
+			word.Should().Be("cat and dog");
+		}
+
+		[TestMethod]
+		public void ParseWordFromTitle_ForWikilinkWithTitle_ReturnsCorrectWord()
+		{
+			// Arrange
+
+			var mocker = new AutoMocker();
+			var target = mocker.CreateInstance<WikitextParser>();
+
+			// Act
+
+			var word = target.ParseWordFromTitle("[[cat|Cat]] and [[dog|Dog]]");
+
+			// Assert
+
+			word.Should().Be("Cat and Dog");
+		}
+
+		[TestMethod]
+		public void ParseWordFromTitle_ForWikilinkBorderingWithPlainText_ReturnsCorrectWord()
+		{
+			// Arrange
+
+			var mocker = new AutoMocker();
+			var target = mocker.CreateInstance<WikitextParser>();
+
+			// Act
+
+			var word = target.ParseWordFromTitle("[[dog]]gy");
+
+			// Assert
+
+			word.Should().Be("doggy");
+		}
+
+		[TestMethod]
+		public void ParseWordFromTitle_ForBorderingWikilinks_ReturnsCorrectWord()
+		{
+			// Arrange
+
+			var mocker = new AutoMocker();
+			var target = mocker.CreateInstance<WikitextParser>();
+
+			// Act
+
+			var word = target.ParseWordFromTitle("[[cat]][[dog]]");
+
+			// Assert
+
+			word.Should().Be("catdog");
+		}
+
+		[TestMethod]
 		public void ParseFormValues_ForSingleFormValue_ReturnsCorrectFormValues()
 		{
 			// Arrange

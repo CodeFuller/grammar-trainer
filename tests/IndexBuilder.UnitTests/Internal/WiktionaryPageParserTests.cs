@@ -16,6 +16,33 @@ namespace IndexBuilder.UnitTests.Internal
 	public class WiktionaryPageParserTests
 	{
 		[TestMethod]
+		public void ParseLanguageWords_ForTitleWithWikilinks_ReturnsCorrectWord()
+		{
+			// Arrange
+
+			var target = CreateTestTarget();
+
+			var wikitext = LoadWikitext("Republika Czeska.txt");
+
+			// Act
+
+			var languageWords = target.ParseLanguageWords(wikitext).ToList();
+
+			// Assert
+
+			var expectedLanguageWords = new[]
+			{
+				new LanguageWordData
+				{
+					Language = "polski",
+					Word = "Republika Czeska",
+				},
+			};
+
+			languageWords.Should().BeEquivalentTo(expectedLanguageWords, x => x.Excluding(y => y.Wikitext));
+		}
+
+		[TestMethod]
 		public void ParseWordDefinitions_ForNoun_ReturnsCorrectWordDefinition()
 		{
 			// Arrange

@@ -80,6 +80,16 @@ namespace IndexBuilder.WikitextParsing
 
 		private static readonly Parser<char, FormValuesNode> WikitextFormValuesParserParser = FormValuesParser.Before(End);
 
+		private static readonly Parser<char, string> TitlePlainTextParser = AnyCharExcept('[', ']', '|').AtLeastOnceString();
+		private static readonly Parser<char, string> WikilinkWithoutTitleParser = TitlePlainTextParser.Between(String("[["), String("]]"));
+		private static readonly Parser<char, string> WikilinkWithTitleParser = Map((_, _, title) => title, TitlePlainTextParser, Char('|'), TitlePlainTextParser).Between(String("[["), String("]]"));
+		private static readonly Parser<char, string> TitleParser = OneOf(
+				Try(WikilinkWithTitleParser),
+				WikilinkWithoutTitleParser,
+				TitlePlainTextParser)
+			.AtLeastOnceString()
+			.Before(End);
+
 		private static Parser<char, T> TokenParser<T>(Parser<char, T> token)
 		{
 			return Try(token).Before(SkipWhitespaces);
@@ -88,6 +98,17 @@ namespace IndexBuilder.WikitextParsing
 		private static Parser<char, T> PotentialTemplateParser<T>(Parser<char, T> parser)
 		{
 			return TokenParser(parser.Between(TokenParser(String("{{potencjalnie|")), String("}}")).Before(OptionalReferencesParser));
+		}
+
+		public string ParseWordFromTitle(string wikitext)
+		{
+			var parseResult = TitleParser.Parse(wikitext);
+			if (!parseResult.Success)
+			{
+				throw new InvalidOperationException($"Failed to parse word from title wikitext '{wikitext}'");
+			}
+
+			return parseResult.Value;
 		}
 
 		public IEnumerable<NounDeclensionFormValue> ParseFormValues(string wikitext)
