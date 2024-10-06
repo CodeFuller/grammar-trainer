@@ -16,6 +16,8 @@ namespace IndexBuilder
 			services.AddSingleton<IWiktionaryPageParser, WiktionaryPageParser>();
 			services.AddSingleton<IFormValuesParser, PidginFormValuesParser>();
 
+			services.AddSingleton<IWordDefinitionsSerializer, JsonWordDefinitionsSerializer>();
+
 			services.AddSingleton<IApplicationLogic, ApplicationLogic>();
 		}
 

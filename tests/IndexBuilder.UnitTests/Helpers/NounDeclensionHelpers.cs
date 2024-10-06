@@ -12,7 +12,7 @@ namespace IndexBuilder.UnitTests.Helpers
 
 		public static NounDeclensionForm CreateDeclensionForm(GrammaticalCase grammaticalCase, GrammaticalNumber grammaticalNumber, string[] forms, DeclensionFormFlags flags = DeclensionFormFlags.None)
 		{
-			return CreateDeclensionForm(grammaticalCase, grammaticalNumber, forms.Select(x => new NounDeclensionFormValue { Form = x, Flags = flags }).ToArray());
+			return CreateDeclensionForm(grammaticalCase, grammaticalNumber, forms.Select(x => new NounDeclensionFormValue { FormValue = x, Flags = flags }).ToArray());
 		}
 
 		public static NounDeclensionForm CreateDeclensionForm(GrammaticalCase grammaticalCase, GrammaticalNumber grammaticalNumber, params NounDeclensionFormValue[] forms)
@@ -21,7 +21,7 @@ namespace IndexBuilder.UnitTests.Helpers
 			{
 				Case = grammaticalCase,
 				Number = grammaticalNumber,
-				Forms = forms,
+				FormValues = forms,
 			};
 		}
 
@@ -29,7 +29,7 @@ namespace IndexBuilder.UnitTests.Helpers
 		{
 			return new NounDeclensionFormValue
 			{
-				Form = form,
+				FormValue = form,
 				Flags = flags,
 			};
 		}

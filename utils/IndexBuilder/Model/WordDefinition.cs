@@ -1,4 +1,4 @@
-namespace IndexBuilder.Data
+namespace IndexBuilder.Model
 {
 	internal abstract class WordDefinition
 	{

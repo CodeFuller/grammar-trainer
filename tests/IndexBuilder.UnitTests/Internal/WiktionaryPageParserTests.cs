@@ -1,7 +1,7 @@
 using System.IO;
 using System.Linq;
 using FluentAssertions;
-using IndexBuilder.Data;
+using IndexBuilder.Data.Input;
 using IndexBuilder.Internal;
 using IndexBuilder.Model;
 using IndexBuilder.WikitextParsing;
@@ -52,7 +52,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -92,7 +92,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -132,7 +132,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -172,7 +172,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -212,7 +212,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -252,7 +252,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -292,7 +292,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -332,7 +332,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -372,7 +372,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -412,7 +412,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -452,7 +452,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -492,7 +492,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -532,7 +532,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -572,7 +572,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -612,7 +612,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -645,7 +645,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -685,7 +685,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -725,7 +725,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -765,7 +765,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -805,7 +805,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -859,7 +859,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -899,7 +899,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		[TestMethod]
@@ -981,7 +981,7 @@ namespace IndexBuilder.UnitTests.Internal
 				},
 			};
 
-			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions);
+			wordDefinitions.Should().BeEquivalentTo(expectedWordDefinitions, x => x.WithStrictOrdering());
 		}
 
 		private static LanguageWordData CreateLanguageWordData(string word)

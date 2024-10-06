@@ -8,6 +8,6 @@ namespace IndexBuilder.Model
 
 		public GrammaticalNumber Number { get; init; }
 
-		public IReadOnlyCollection<NounDeclensionFormValue> Forms { get; init; }
+		public IReadOnlyCollection<NounDeclensionFormValue> FormValues { get; init; }
 	}
 }

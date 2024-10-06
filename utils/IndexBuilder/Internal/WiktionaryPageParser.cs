@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
-using IndexBuilder.Data;
+using IndexBuilder.Data.Input;
 using IndexBuilder.Interfaces;
 using IndexBuilder.Model;
 using IndexBuilder.WikitextParsing;
@@ -261,7 +261,7 @@ namespace IndexBuilder.Internal
 				{
 					Case = formCase,
 					Number = formNumber,
-					Forms = formValuesParser.ParseFormValues(formText).ToList(),
+					FormValues = formValuesParser.ParseFormValues(formText).ToList(),
 				};
 
 				forms.Add(form);
@@ -269,7 +269,7 @@ namespace IndexBuilder.Internal
 
 			return new NounDefinition
 			{
-				Forms = forms,
+				Forms = forms.Order(new NounDeclensionFormComparer()).ToList(),
 			};
 		}
 
@@ -281,11 +281,11 @@ namespace IndexBuilder.Internal
 					{
 						Case = x.Case,
 						Number = x.Number,
-						Forms =
+						FormValues =
 						[
 							new NounDeclensionFormValue
 							{
-								Form = word,
+								FormValue = word,
 								Flags = DeclensionFormFlags.None,
 							},
 						],

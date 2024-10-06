@@ -11,7 +11,8 @@ using System.Xml.Linq;
 using System.Xml.XPath;
 using CodeFuller.Library.Bootstrap;
 using CommandLine;
-using IndexBuilder.Data;
+using IndexBuilder.Data.Input;
+using IndexBuilder.Data.Output;
 using IndexBuilder.Interfaces;
 using IndexBuilder.Internal;
 using Microsoft.Extensions.Logging;
@@ -22,11 +23,14 @@ namespace IndexBuilder
 	{
 		private readonly IWiktionaryPageParser wiktionaryPageParser;
 
+		private readonly IWordDefinitionsSerializer wordDefinitionsSerializer;
+
 		private readonly ILogger<ApplicationLogic> logger;
 
-		public ApplicationLogic(IWiktionaryPageParser wiktionaryPageParser, ILogger<ApplicationLogic> logger)
+		public ApplicationLogic(IWiktionaryPageParser wiktionaryPageParser, IWordDefinitionsSerializer wordDefinitionsSerializer, ILogger<ApplicationLogic> logger)
 		{
 			this.wiktionaryPageParser = wiktionaryPageParser ?? throw new ArgumentNullException(nameof(wiktionaryPageParser));
+			this.wordDefinitionsSerializer = wordDefinitionsSerializer ?? throw new ArgumentNullException(nameof(wordDefinitionsSerializer));
 			this.logger = logger ?? throw new ArgumentNullException(nameof(logger));
 		}
 
@@ -50,6 +54,8 @@ namespace IndexBuilder
 			var pageParsingFailuresCount = 0;
 			var currentLanguageEntryPagesCount = 0;
 			var formsParsingFailuresCount = 0;
+
+			var wordDefinitionsData = new WordDefinitionsData();
 
 			foreach (var page in GetWiktionaryPages(commandLineOptions.SourcePath))
 			{
@@ -81,6 +87,7 @@ namespace IndexBuilder
 				try
 				{
 					var wordDefinitions = wiktionaryPageParser.ParseWordDefinitions(page.Id, wordInCurrentLanguage).ToList();
+					wordDefinitionsData.Add(wordInCurrentLanguage.Word, wordDefinitions);
 				}
 				catch (InvalidOperationException e)
 				{
@@ -97,6 +104,9 @@ namespace IndexBuilder
 			statsBuilder.AppendLine(CultureInfo.InvariantCulture, $"{"Forms parsing failures:",-40} {formsParsingFailuresCount,9:N0}");
 
 			logger.LogInformation($"Dump statistics:\n\n{statsBuilder}");
+
+			var serializedData = wordDefinitionsSerializer.Serialize(commandLineOptions.Language, wordDefinitionsData);
+			File.WriteAllText(commandLineOptions.TargetPath, serializedData);
 		}
 
 		private IEnumerable<WiktionaryPageData> GetWiktionaryPages(string wikiExportFilePath)

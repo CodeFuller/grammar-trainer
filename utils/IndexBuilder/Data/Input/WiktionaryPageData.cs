@@ -1,6 +1,6 @@
 using IndexBuilder.Internal;
 
-namespace IndexBuilder.Data
+namespace IndexBuilder.Data.Input
 {
 	internal sealed class WiktionaryPageData
 	{

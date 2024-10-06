@@ -1,5 +1,6 @@
 using System.Collections.Generic;
-using IndexBuilder.Data;
+using IndexBuilder.Data.Input;
+using IndexBuilder.Model;
 
 namespace IndexBuilder.Interfaces
 {

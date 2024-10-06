@@ -100,7 +100,7 @@ namespace IndexBuilder.WikitextParsing
 
 			return parseResult.Value.FormValues.Select(x => new NounDeclensionFormValue
 				{
-					Form = x.Word,
+					FormValue = x.Word,
 					Flags = x.Flags,
 				})
 				.ToList();

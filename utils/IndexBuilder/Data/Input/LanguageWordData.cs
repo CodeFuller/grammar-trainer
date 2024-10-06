@@ -1,4 +1,4 @@
-namespace IndexBuilder.Data
+namespace IndexBuilder.Data.Input
 {
 	internal sealed class LanguageWordData
 	{
